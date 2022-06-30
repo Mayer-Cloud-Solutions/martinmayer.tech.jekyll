@@ -1,14 +1,13 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: martinmayer.tech
+title: Martin Mayer | Thoughts on technical leadership
+description: Martin Mayer is a technical leader with experience structuring, growing, and guiding high-performing software engineering teams.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - technical leadership
+  - interim technical leader
+  - fractional technical leader
+  - high performing software teams
+  - inclusive teams
 show_hero: true
 menu:
   - title: Home
@@ -17,24 +16,24 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+#  - title: Feed
+#    url: /feed.xml
+email: martin@martinmayer.tech
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: martinmayertech
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: xbjwevyz
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: martinjmayer
+#facebook_username: facebook_username
+#twitter_username: twitter_username
+#instagram_username: instagram_username
+linkedin_username: martin-mayer-manchester-uk
+#medium_username: medium_username
 
 
 # Posts Settings
