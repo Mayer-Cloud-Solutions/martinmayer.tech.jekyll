@@ -34,7 +34,7 @@ jobs:
       uses: jsmrcaga/action-netlify-deploy@v1.1.0
       with:
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
-        NETLIFY_SITE_ID: XXXXXXXXXXXXXXXXXXXXXXXX
+        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITEID }}
         NETLIFY_DEPLOY_TO_PROD: true
         build_directory: ./
         build_command: echo 'Deploy to Netlify'
