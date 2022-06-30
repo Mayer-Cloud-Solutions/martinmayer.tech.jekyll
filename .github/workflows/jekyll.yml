@@ -7,20 +7,34 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:
+  ci-cd:
 
     runs-on: ubuntu-latest
 
     steps:
+    
+#Build
     - uses: actions/checkout@v3
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+        
+#Test _site output
 
 # Output
     - uses: actions/upload-artifact@v2
       with:
         name: Build
         path: ${{ github.workspace }}/_site
+
+#Deploy to Netlify
+    - name: Publish
+      uses: jsmrcaga/action-netlify-deploy@v1.1.0
+      with:
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
+        NETLIFY_SITE_ID: XXXXXXXXXXXXXXXXXXXXXXXX
+        NETLIFY_DEPLOY_TO_PROD: true
+        build_directory: ./
+        build_command: echo 'Deploy to Netlify'
