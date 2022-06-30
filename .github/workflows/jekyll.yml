@@ -1,4 +1,4 @@
-name: Jekyll site CI/CD
+name: Jekyll site CI/CD for martinmayer.tech
 
 on:
   push:
@@ -36,5 +36,5 @@ jobs:
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
         NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITEID }}
         NETLIFY_DEPLOY_TO_PROD: true
-        build_directory: ./
+        build_directory: ${{ github.workspace }}/_site
         build_command: echo 'Deploy to Netlify'
