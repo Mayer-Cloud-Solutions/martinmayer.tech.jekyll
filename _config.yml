@@ -58,10 +58,10 @@ highlighter: rouge
 permalink: /:title/
 collections:
   authors:
-    output: true
+    output: false
 paginate_path: "/page/:num/"
 show_get_theme_btn: false
-use_logo: true
+use_logo: false
 
 # Content paginator
 paginate_content:
@@ -69,6 +69,7 @@ paginate_content:
   debug: false
   collections:
     - posts
+    - assignments
   auto: false
   separator: "--page-break--"
   permalink: "/:num/"
