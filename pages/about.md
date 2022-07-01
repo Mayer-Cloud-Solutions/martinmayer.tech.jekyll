@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/martinmayer.png" alt="Martin Mayer" width="200">
+<img class="img-rounded" src="/assets/img/uploads/martinmayer.jpg" alt="Martin Mayer" width="200">
 
 # About
 
