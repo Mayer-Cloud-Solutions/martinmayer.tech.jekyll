@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/v1656637137/2020-03-07_11.45.51_iitmu5.jpg
+  https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_1440,q_50/v1656637137/2020-03-07_11.45.51_iitmu5.jpg
 optimized_image: >-
-  https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_380/v1656637137/2020-03-07_11.45.51_iitmu5.jpg
+  https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_380,q_50/v1656637137/2020-03-07_11.45.51_iitmu5.jpg
 category: blog
 tags:
   - welcome
