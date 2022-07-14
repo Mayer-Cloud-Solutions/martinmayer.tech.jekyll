@@ -5,15 +5,15 @@
 .carousel {
 	display: flex;
 	margin: 0 15px;
-	width: 200px;
+	width: 800px;
 	overflow-x: hidden;
 	scroll-behavior: smooth;
 	scroll-snap-type: x mandatory;
 }
 
 .slide {
-	width: 200px;
-	height: 200px;
+	width: 800px;
+	height: 450px;
 	margin: 0 20px;
 	flex-shrink: 0;
 	scroll-snap-align: start;

@@ -24,20 +24,20 @@ description: Martin Mayer | Technical Leader | Portfolio
 </div>
 <script>
 	function goRight() {
-		if (document.querySelector(".carousel").scrollLeft + 240 >= document.querySelector(".carousel").scrollWidth + 20) {
+		if (document.querySelector(".carousel").scrollLeft + document.querySelector(".carousel").clientWidth + 40 >= document.querySelector(".carousel").scrollWidth + 20) {
 			document.querySelector(".carousel").scrollLeft = 20;
 		}
 		else {
-			document.querySelector(".carousel").scrollLeft += 240;
+			document.querySelector(".carousel").scrollLeft += document.querySelector(".carousel").clientWidth + 40;
 		}
 	}
 
 	function goLeft() {
 		if (document.querySelector(".carousel").scrollLeft <= 20) {
-			document.querySelector(".carousel").scrollLeft = document.querySelector(".carousel").scrollWidth + 20 - 240;
+			document.querySelector(".carousel").scrollLeft = document.querySelector(".carousel").scrollWidth + 20 - document.querySelector(".carousel").clientWidth + 40;
 		}
 		else {
-			document.querySelector(".carousel").scrollLeft -= 240;
+			document.querySelector(".carousel").scrollLeft -= document.querySelector(".carousel").clientWidth + 40;
 		}		
 	 }
 
