@@ -16,13 +16,13 @@ description: Martin Mayer | Technical Leader | Portfolio
 <p>This carousel is created with HTML and CSS only.</p>
 
 <div class="component">
-	<img src="assets/img/left.svg" alt="go to previous slide" onclick="goLeft()"> 
+	<img src="assets/img/uploads/left.svg" alt="go to previous slide" onclick="goLeft()"> 
 	<div class="carousel">
 		<div class="slide" id="slide1"></div>
 		<div class="slide" id="slide2"></div>
 		<div class="slide" id="slide3"></div>
 	</div>
-	<img src="assets/img/right.svg" alt="go to next slide" onclick="goRight()">
+	<img src="assets/img/uploads/right.svg" alt="go to next slide" onclick="goRight()">
 </div>
 <script>
 	function goRight() {
