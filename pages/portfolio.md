@@ -11,14 +11,21 @@ description: Martin Mayer | Technical Leader | Portfolio
 
 # Portfolio
 
-<p>This carousel is created with HTML and CSS only.</p>
-
 <div class="component">
 	<img src="https://res.cloudinary.com/martinmayer-tech/image/upload/v1657837062/left_qqqq8i.svg" alt="go to previous slide" onclick="goLeft()"> 
 	<div class="carousel">
-		<div class="slide" id="slide1"></div>
+		{% for initiative in site.initiatives %}
+		<div class="slide" id="{{ initiative.reference }}">
+		  <h2>{{ initiative.title }}</h2>
+		  <h3>{{ initiative.subtitle }}</h3>
+		  <h4>{{ initiative.business }} - {{ initiative.date }}</h4>
+		  <p>{{ initiative.content | markdownify }}</p>
+		</div>
+		{% endfor %}
+	
+		<!--<div class="slide" id="slide1"></div>
 		<div class="slide" id="slide2"></div>
-		<div class="slide" id="slide3"></div>
+		<div class="slide" id="slide3"></div>-->
 	</div>
 	<img src="https://res.cloudinary.com/martinmayer-tech/image/upload/v1657837062/right_dqqp0w.svg" alt="go to next slide" onclick="goRight()">
 </div>
