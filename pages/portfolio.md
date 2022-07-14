@@ -11,8 +11,6 @@ description: Martin Mayer | Technical Leader | Portfolio
 
 # Portfolio
 
-<p>Portfolio</p>
-
 <p>This carousel is created with HTML and CSS only.</p>
 
 <div class="component">
@@ -26,11 +24,21 @@ description: Martin Mayer | Technical Leader | Portfolio
 </div>
 <script>
 	function goRight() {
-		document.querySelector(".carousel").scrollLeft += 240;
+		if (document.querySelector(".carousel").scrollLeft + 240 >= document.querySelector(".carousel").scrollWidth + 20) {
+			document.querySelector(".carousel").scrollLeft = 20;
+		}
+		else {
+			document.querySelector(".carousel").scrollLeft += 240;
+		}
 	}
 
 	function goLeft() {
-		document.querySelector(".carousel").scrollLeft -= 240;
+		if (document.querySelector(".carousel").scrollLeft <= 20) {
+			document.querySelector(".carousel").scrollLeft = document.querySelector(".carousel").scrollWidth + 20 - 240;
+		}
+		else {
+			document.querySelector(".carousel").scrollLeft -= 240;
+		}		
 	 }
 
 </script>
