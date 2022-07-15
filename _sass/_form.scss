@@ -13,18 +13,18 @@
     box-sizing: border-box;
     outline: none;
     display: block;
-    color: #333333;
+    color: $texts;
     width: 100%;
     padding: 7px;
     border: none;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid $borderColor;
     margin-bottom: 10px;
     font-family: inherit;
     font-size: rem(18px);
     height: rem(45px);
 
     &.has-error {
-      border-color: #f04242;
+      border-color: $borderColor;
     }
   }
 
@@ -35,14 +35,14 @@
   span {
     display: block;
     font-size: rem(14px);
-    color: #f04242;
+    color: $texts;
     padding-bottom: rem(10px);
   }
 
   button[type="submit"] {
     display: block;
     padding: rem(14px) rem(39px) rem(14px) rem(39px);
-    color: #ffffff;
+    color: $texts;
     background: $themeColor;
     font-size: rem(18px);
     width: 100%;
