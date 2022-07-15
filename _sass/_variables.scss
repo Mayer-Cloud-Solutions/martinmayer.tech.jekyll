@@ -1,12 +1,14 @@
 /**
  * Set up here the general appearance of the theme.
  */
-
+$bgColor: map-get($theme, bgColor) !default;
+$borderColor: map-get($theme, borderColor) !default;
 $themeColor: map-get($theme, themeColor) !default;
 $primaryDark: map-get($theme, primaryDark) !default;
 $accentDark: map-get($theme, accentDark) !default;
 $lightGray: map-get($theme, lightGray) !default;
 $texts: map-get($theme, texts) !default;
+$titles: map-get($theme, titles) !default;
 
 // Breakpoints
 $breakpoints: (
