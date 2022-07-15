@@ -61,6 +61,9 @@ permalink: /:title/
 collections:
   authors:
     output: false
+  initiatives:
+    sort_by: sorting
+    output: false
 paginate_path: "/page/:num/"
 show_get_theme_btn: false
 use_logo: false
@@ -71,9 +74,6 @@ paginate_content:
   debug: false
   collections:
     - posts
-    initiatives:
-      sort_by: sorting
-      output: false
   auto: false
   separator: "--page-break--"
   permalink: "/:num/"
