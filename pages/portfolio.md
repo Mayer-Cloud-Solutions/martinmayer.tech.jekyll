@@ -14,10 +14,10 @@ description: Martin Mayer | Technical Leader | Portfolio
 	<div class="carousel">
 		{% for initiative in site.initiatives %}
 		<div class="slide" id="{{ initiative.reference }}" style="background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('{{ initiative.bg_img }}'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;">
-		  <h2>{{ initiative.title }}</h2>
-		  <h3>{{ initiative.subtitle }}</h3>
-		  <h4>{{ initiative.business }} - {{ initiative.init_date }}</h4>
-		  <p>{{ initiative.content | markdownify }}</p>
+		  <h2 class="carouseltext">{{ initiative.title }}</h2>
+		  <h3 class="carouseltext">{{ initiative.subtitle }}</h3>
+		  <h4 class="carouseltext">{{ initiative.business }} - {{ initiative.init_date }}</h4>
+		  <p class="carouseltext">{{ initiative.content | markdownify }}</p>
 		</div>
 		{% endfor %}
 	
