@@ -15,10 +15,10 @@ description: Martin Mayer | Technical Leader | Portfolio
 	<img src="https://res.cloudinary.com/martinmayer-tech/image/upload/v1657837062/left_qqqq8i.svg" alt="go to previous slide" onclick="goLeft()"> 
 	<div class="carousel">
 		{% for initiative in site.initiatives %}
-		<div class="slide" id="{{ initiative.reference }}">
+		<div class="slide" id="{{ initiative.reference }}" style="background-image: url('{{ initiative.bg_img }}'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;">
 		  <h2>{{ initiative.title }}</h2>
 		  <h3>{{ initiative.subtitle }}</h3>
-		  <h4>{{ initiative.business }} - {{ initiative.date }}</h4>
+		  <h4>{{ initiative.business }} - {{ initiative.init_date }}</h4>
 		  <p>{{ initiative.content | markdownify }}</p>
 		</div>
 		{% endfor %}
