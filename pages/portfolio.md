@@ -30,8 +30,9 @@ description: Martin Mayer | Technical Leader | Portfolio
 	<img src="https://res.cloudinary.com/martinmayer-tech/image/upload/v1657837062/right_dqqp0w.svg" alt="go to next slide" onclick="goRight()">
 </div>
 <script>
+	const slideMargin = 0;
+		
 	function goRight() {
-		var slideMargin = 0;
 	
 		if (document.querySelector(".carousel").scrollLeft + document.querySelector(".carousel").clientWidth + (slideMargin * 2) >= document.querySelector(".carousel").scrollWidth + slideMargin) {
 			document.querySelector(".carousel").scrollLeft = slideMargin;
