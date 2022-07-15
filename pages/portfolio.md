@@ -7,8 +7,6 @@ permalink: /portfolio/
 description: Martin Mayer | Technical Leader | Portfolio
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/martinmayer.jpg" alt="Martin Mayer" width="200">
-
 # Portfolio
 
 <div class="component">
