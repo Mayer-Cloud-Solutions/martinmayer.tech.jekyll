@@ -15,7 +15,7 @@ description: Martin Mayer | Technical Leader | Portfolio
 	<img src="https://res.cloudinary.com/martinmayer-tech/image/upload/v1657837062/left_qqqq8i.svg" alt="go to previous slide" onclick="goLeft()"> 
 	<div class="carousel">
 		{% for initiative in site.initiatives %}
-		<div class="slide" id="{{ initiative.reference }}" style="background-image: url('{{ initiative.bg_img }}'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;">
+		<div class="slide" id="{{ initiative.reference }}" style="background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('{{ initiative.bg_img }}'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;">
 		  <h2>{{ initiative.title }}</h2>
 		  <h3>{{ initiative.subtitle }}</h3>
 		  <h4>{{ initiative.business }} - {{ initiative.init_date }}</h4>
@@ -31,20 +31,22 @@ description: Martin Mayer | Technical Leader | Portfolio
 </div>
 <script>
 	function goRight() {
-		if (document.querySelector(".carousel").scrollLeft + document.querySelector(".carousel").clientWidth + 40 >= document.querySelector(".carousel").scrollWidth + 20) {
-			document.querySelector(".carousel").scrollLeft = 20;
+		var slideMargin = 0;
+	
+		if (document.querySelector(".carousel").scrollLeft + document.querySelector(".carousel").clientWidth + (slideMargin * 2) >= document.querySelector(".carousel").scrollWidth + slideMargin) {
+			document.querySelector(".carousel").scrollLeft = slideMargin;
 		}
 		else {
-			document.querySelector(".carousel").scrollLeft += document.querySelector(".carousel").clientWidth + 40;
+			document.querySelector(".carousel").scrollLeft += document.querySelector(".carousel").clientWidth + (slideMargin * 2);
 		}
 	}
 
 	function goLeft() {
-		if (document.querySelector(".carousel").scrollLeft <= 20) {
-			document.querySelector(".carousel").scrollLeft = document.querySelector(".carousel").scrollWidth + 20 - document.querySelector(".carousel").clientWidth + 40;
+		if (document.querySelector(".carousel").scrollLeft <= slideMargin) {
+			document.querySelector(".carousel").scrollLeft = document.querySelector(".carousel").scrollWidth + slideMargin - document.querySelector(".carousel").clientWidth + (slideMargin * 2);
 		}
 		else {
-			document.querySelector(".carousel").scrollLeft -= document.querySelector(".carousel").clientWidth + 40;
+			document.querySelector(".carousel").scrollLeft -= document.querySelector(".carousel").clientWidth + (slideMargin * 2);
 		}		
 	 }
 
