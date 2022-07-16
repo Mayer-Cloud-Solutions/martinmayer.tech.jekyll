@@ -247,7 +247,7 @@
 
     p {
       font-size: rem(17px);
-      color: rgba(f, f, f, 0.6);
+      color: rgba(255, 255, 255, 0.6);
       margin: 0;
       @include media(">=sm") {
         font-size: rem(20px);
@@ -374,7 +374,7 @@
         transition: all 0.3s;
 
         &:hover {
-          color: rgba(f, f, f, 0.5);
+          color: rgba(255, 255, 255, 0.5);
           img {
             -webkit-filter: grayscale(100%);
             filter: grayscale(100%);
