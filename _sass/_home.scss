@@ -1,3 +1,8 @@
+body {
+  background-color: $bgColor
+}
+
+
 .home {
   @include mainFont(400);
   -webkit-font-smoothing: antialiased;
@@ -28,7 +33,7 @@
   margin: 0 0 rem(40px);
   padding: 0 rem(23px);
   text-transform: lowercase;
-  color: #fff;
+  color: $texts;
 }
 
 .box-item {
@@ -175,7 +180,7 @@
         text-transform: uppercase;
         display: inline-block;
         background: $themeColor;
-        color: #fff;
+        color: $texts;
         font-size: rem(13px);
         font-weight: 700;
         line-height: rem(24px);
