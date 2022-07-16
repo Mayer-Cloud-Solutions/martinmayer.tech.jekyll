@@ -1,6 +1,9 @@
-p, h1, h2, h3, h4, h5, body {
-  background-color: $bgColor;
+p, h1, h2, h3, h4, h5 {
   color: $texts;
+}
+
+body {
+  background-color: $bgColor;
 }
 
 
