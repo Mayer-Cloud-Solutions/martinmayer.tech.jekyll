@@ -394,7 +394,7 @@
   height: 38px;
   padding: rem(30px) 0;
   border-bottom: 1px solid $themeColor;
-  background-color: #fff;
+  background-color: $bgColor;
   transition: bottom 0.5s;
 
   .bar {
