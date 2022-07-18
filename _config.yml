@@ -63,7 +63,7 @@ collections:
     output: false
   initiatives:
     sort_by: sorting
-    output: false
+    output: true
 paginate_path: "/page/:num/"
 show_get_theme_btn: false
 use_logo: false
