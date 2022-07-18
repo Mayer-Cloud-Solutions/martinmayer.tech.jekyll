@@ -50,12 +50,12 @@ description: Martin Mayer | Technical Leader | Portfolio
                                 <img src="/assets/img/off.jpg" width="100%">
                             </noscript>
                         {% endif %}
-                        {% include new-post-tag.html date=initiative.date %}
+                        <!--{% include new-post-tag.html date=initiative.date %}-->
                         {% include read-icon.html %}
                     </a>
                     <div class="box-info">
                         <time datetime="{{ initiative.date | date_to_xmlschema }}" class="date">
-                            {% include date.html date=initiative.date %}
+                            {% include date.html date=initiative.init_date %}
                         </time>
                         <a class="post-link" href="{{ initiative.url | prepend: site.baseurl }}">
                             <h2 class="post-title">
