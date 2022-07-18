@@ -2,7 +2,7 @@
 sorting: 01000
 reference: cinch-lattice
 title: People and Progression Software Assessment
-subtitle: Working with key stakeholders within the business
+description: Working with key stakeholders within the business
 business: cinch
 init_date: June, 2022
 bg_img: https://res.cloudinary.com/martinmayer-tech/image/upload/v1656645970/2018-09-09_15.22.06_kkegvj.jpg

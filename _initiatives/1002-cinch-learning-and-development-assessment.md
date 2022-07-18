@@ -2,7 +2,7 @@
 sorting: 01001
 reference: cinch-lattice
 title: Investigated new Learning & Development approaches
-subtitle: Assessing current learning platforms and ways of working with them
+description: Assessing current learning platforms and ways of working with them
 business: cinch
 init_date: July, 2022
 bg_img: https://res.cloudinary.com/martinmayer-tech/image/upload/v1656646282/2018-02-27_07.51.25_w7upoq.jpg

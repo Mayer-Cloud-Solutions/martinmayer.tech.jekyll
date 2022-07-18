@@ -9,7 +9,7 @@ description: Martin Mayer | Technical Leader | Portfolio
 
 # Portfolio
 
-<div class="component">
+<!--<div class="component">
 	<img src="https://res.cloudinary.com/martinmayer-tech/image/upload/v1657837062/left_qqqq8i.svg" alt="go to previous slide" onclick="goLeft()"> 
 	<div class="carousel">
 		{% for initiative in site.initiatives %}
@@ -20,13 +20,65 @@ description: Martin Mayer | Technical Leader | Portfolio
 		  <p class="carouseltext">{{ initiative.content | markdownify }}</p>
 		</div>
 		{% endfor %}
-	
-		<!--<div class="slide" id="slide1"></div>
-		<div class="slide" id="slide2"></div>
-		<div class="slide" id="slide3"></div>-->
 	</div>
 	<img src="https://res.cloudinary.com/martinmayer-tech/image/upload/v1657837062/right_dqqp0w.svg" alt="go to next slide" onclick="goRight()">
-</div>
+</div>-->
+<section id="grid" class="row flex-grid">
+        {% for initiative in site.initiatives%}
+            <article class="box-item">
+                <!--<span class="category">
+                    <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">
+                        <span>{{ post.category }}</span>
+                    </a>
+                </span>-->
+                <div class="box-body">
+                    <a class="cover" href="{{ initiative.url | prepend: site.baseurl }}">
+                        {% include loader.html %}
+                        {% if initiative.optimized_image %}
+                            <img src="/assets/img/placeholder.png" width="100%" data-url="{{ initiative.optimized_image }}" class="preload">
+                            <noscript>
+                                <img src="{{ initiative.optimized_image }}" width="100%">
+                            </noscript>
+                        {% elsif initiative.image %}
+                            <img src="/assets/img/placeholder.png" width="100%" data-url="{{ initiative.image }}" class="preload">
+                            <noscript>
+                                <img src="{{ initiative.image }}" width="100%">
+                            </noscript>
+                        {% else %}
+                            <img src="/assets/img/placeholder.png" width="100%" data-url="/assets/img/off.jpg" class="preload">
+                            <noscript>
+                                <img src="/assets/img/off.jpg" width="100%">
+                            </noscript>
+                        {% endif %}
+                        {% include new-post-tag.html date=initiative.date %}
+                        {% include read-icon.html %}
+                    </a>
+                    <div class="box-info">
+                        <time datetime="{{ initiative.date | date_to_xmlschema }}" class="date">
+                            {% include date.html date=initiative.date %}
+                        </time>
+                        <a class="post-link" href="{{ initiative.url | prepend: site.baseurl }}">
+                            <h2 class="post-title">
+                                {{ initiative.title }}
+                            </h2>
+                        </a>
+                        <a class="post-link" href="{{ initiative.url | prepend: site.baseurl }}">
+                            <p class="description">{{ initiative.description }}</p>
+                        </a>
+                        <!--<div class="tags">
+                            {% for tag in initiative.tags %}
+                                {% if tag != "" %}
+                                    <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
+                                {% endif %}
+                            {% endfor %}
+                        </div>-->
+                    </div>
+                </div>
+            </article>
+        {% endfor %}
+    </section>
+
+
 <script>
 	const slideMargin = 0;
 		
