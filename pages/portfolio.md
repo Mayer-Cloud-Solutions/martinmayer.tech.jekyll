@@ -8,7 +8,7 @@ description: Martin Mayer | Technical Leader | Portfolio
 ---
 
 # Portfolio
-
+<main class="home no-padding" role="main">
 <!--<div class="component">
 	<img src="https://res.cloudinary.com/martinmayer-tech/image/upload/v1657837062/left_qqqq8i.svg" alt="go to previous slide" onclick="goLeft()"> 
 	<div class="carousel">
@@ -23,8 +23,8 @@ description: Martin Mayer | Technical Leader | Portfolio
 	</div>
 	<img src="https://res.cloudinary.com/martinmayer-tech/image/upload/v1657837062/right_dqqp0w.svg" alt="go to next slide" onclick="goRight()">
 </div>-->
-<section id="grid" class="row flex-grid">
-        {% for initiative in site.initiatives%}
+    <section id="grid" class="row flex-grid">
+        {% for initiative in site.initiatives %}
             <article class="box-item">
                 <!--<span class="category">
                     <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">
@@ -77,7 +77,7 @@ description: Martin Mayer | Technical Leader | Portfolio
             </article>
         {% endfor %}
     </section>
-
+</main>
 
 <script>
 	const slideMargin = 0;
