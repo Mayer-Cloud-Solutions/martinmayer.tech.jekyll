@@ -68,6 +68,18 @@ paginate_path: "/page/:num/"
 show_get_theme_btn: false
 use_logo: false
 
+# Frontend matter defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "initiatives"
+    values:
+      layout: "initiative"
+
 # Content paginator
 paginate_content:
   enabled: true
