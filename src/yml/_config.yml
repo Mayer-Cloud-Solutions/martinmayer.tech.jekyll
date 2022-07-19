@@ -29,7 +29,7 @@ defaults:
       layout: 'page'
   - scope:
       path: ''
-      type: 'initiatives'
+      type: 'initiative'
     values:
       layout: 'initiative'
 
