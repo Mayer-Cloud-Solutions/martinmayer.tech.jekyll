@@ -5,8 +5,8 @@ description: Martin Mayer | Technical Leader | Portfolio
 ---
 # Portfolio
 <main class="home no-padding" role="main">
-	<section id="grid" class="row flex-grid">
-		<div class="backgrounded">
+	<div class="backgrounded">
+		<section id="grid" class="row flex-grid">
 			<h1>Portfolio</h1>
 			{% for initiative in site.initiatives %}
 				<article class="box-item">
@@ -47,8 +47,8 @@ description: Martin Mayer | Technical Leader | Portfolio
 					</div>
 				</article>
 			{% endfor %}
-		</div>
-	</section>
+		</section>
+	</div>
 </main>
 
 <script>
