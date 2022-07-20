@@ -1,8 +1,5 @@
 ---
 layout: main
-menu: false
-date: '2022-06-30 01:53:59'
-title: Portfolio
 permalink: /portfolio/
 description: Martin Mayer | Technical Leader | Portfolio
 ---
