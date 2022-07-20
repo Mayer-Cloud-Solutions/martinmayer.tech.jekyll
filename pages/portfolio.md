@@ -1,6 +1,7 @@
 ---
-layout: main
+layout: page
 permalink: /portfolio/
+title: Portfolio
 description: Martin Mayer | Technical Leader | Portfolio
 ---
 # Portfolio
