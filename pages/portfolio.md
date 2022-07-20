@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: main
 menu: false
 date: '2022-06-30 01:53:59'
 title: Portfolio
@@ -9,6 +9,9 @@ description: Martin Mayer | Technical Leader | Portfolio
 
 # Portfolio
 <main class="home no-padding" role="main">
+	<section class="hero" style="background-image: url(https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_1440,q_50/v1656644563/2019-06-10_21.35.08_zxaxig.jpg)">
+		<h1 class="title">{{ page.title }}</h1>
+	</section>
 <!--<div class="component">
 	<img src="https://res.cloudinary.com/martinmayer-tech/image/upload/v1657837062/left_qqqq8i.svg" alt="go to previous slide" onclick="goLeft()"> 
 	<div class="carousel">
@@ -23,6 +26,27 @@ description: Martin Mayer | Technical Leader | Portfolio
 	</div>
 	<img src="https://res.cloudinary.com/martinmayer-tech/image/upload/v1657837062/right_dqqp0w.svg" alt="go to next slide" onclick="goRight()">
 </div>-->
+	<!--<section class="hero" style="background-image: url({{ featured.image }})">
+		<div class="pixels"></div>
+		<div class="gradient"></div>
+		<div class="content">
+			<time datetime="{{ featured.date | date_to_xmlschema }}" class="date">
+				{% if site.date_format == nil %}
+					{{ featured.date | date: "%m.%d.%Y" }}
+				{% else %}
+					{{ featured.date | date: site.date_format }}
+				{% endif %}
+			</time>
+			<h1 class="title">{{ featured.title }}</h1>
+			<p class="description">{{ featured.subtitle }}</p>
+			<div class="buttons">
+				<a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
+					<svg><use xlink:href="#icon-read"></use></svg>
+					<span>{{ site.translations.button.read_now | default: "Read Now" }}</span>
+				</a>
+			</div>
+		</div>
+	</section>-->
     <section id="grid" class="row flex-grid">
         {% for initiative in site.initiatives %}
             <article class="box-item">
