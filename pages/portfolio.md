@@ -1,12 +1,13 @@
 ---
 layout: main
 permalink: /portfolio/
+title: Portfolio
 description: Martin Mayer | Technical Leader | Portfolio
 ---
 
 # Portfolio
-<main class="home no-padding" role="main">
-	<section class="hero" style="background-image: url(https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_1440,q_50/v1656644563/2019-06-10_21.35.08_zxaxig.jpg)">
+<main class="home no-padding" role="main" style="background-image: url(https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_1440,q_50/v1656644563/2019-06-10_21.35.08_zxaxig.jpg)">
+	<section class="hero">
 		<h1 class="title">{{ page.title }}</h1>
 	</section>
     <section id="grid" class="row flex-grid">
