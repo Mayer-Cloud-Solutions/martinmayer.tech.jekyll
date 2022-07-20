@@ -5,7 +5,7 @@ title:
 description: Martin Mayer | Technical Leader | Portfolio
 ---
 # Portfolio
-<main class="home no-padding" role="main">
+<main class="home" role="main">
 	<div class="backgrounded">
 		<section id="grid" class="row flex-grid">
 			{% for initiative in site.initiatives %}
@@ -50,27 +50,3 @@ description: Martin Mayer | Technical Leader | Portfolio
 		</section>
 	</div>
 </main>
-
-<script>
-	const slideMargin = 0;
-		
-	function goRight() {
-	
-		if (document.querySelector(".carousel").scrollLeft + document.querySelector(".carousel").clientWidth + (slideMargin * 2) >= document.querySelector(".carousel").scrollWidth + slideMargin) {
-			document.querySelector(".carousel").scrollLeft = slideMargin;
-		}
-		else {
-			document.querySelector(".carousel").scrollLeft += document.querySelector(".carousel").clientWidth + (slideMargin * 2);
-		}
-	}
-
-	function goLeft() {
-		if (document.querySelector(".carousel").scrollLeft <= slideMargin) {
-			document.querySelector(".carousel").scrollLeft = document.querySelector(".carousel").scrollWidth + slideMargin - document.querySelector(".carousel").clientWidth + (slideMargin * 2);
-		}
-		else {
-			document.querySelector(".carousel").scrollLeft -= document.querySelector(".carousel").clientWidth + (slideMargin * 2);
-		}		
-	 }
-
-</script>
