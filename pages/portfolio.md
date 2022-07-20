@@ -8,7 +8,6 @@ description: Martin Mayer | Technical Leader | Portfolio
 <main class="home no-padding" role="main">
 	<div class="backgrounded">
 		<section id="grid" class="row flex-grid">
-			<h1 id="portfolio">Portfolio</h1>
 			{% for initiative in site.initiatives %}
 				<article class="box-item">
 					<div class="box-body">
