@@ -5,7 +5,7 @@ title:
 description: Martin Mayer | Technical Leader | Portfolio
 ---
 # Portfolio
-<main>
+<main class="home">
 	<div class="backgrounded">
 		<section id="grid" class="row flex-grid">
 			{% for initiative in site.initiatives %}
