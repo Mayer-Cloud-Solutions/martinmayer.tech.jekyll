@@ -124,7 +124,14 @@ description: Martin Mayer | Technical Leader | Portfolio
 {% if site.linkedin_username %}
     {% assign social_urls = social_urls | append: '"https://www.linkedin.com/in/' | append: site.linkedin_username | append: '",' %}
 {% endif %}
+<script>
 
+	document.addEventListener("DOMContentLoaded", function(){
+		const element = document.getElementById("portfolio");
+		element.remove();
+	});
+
+</script>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
