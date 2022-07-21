@@ -26,13 +26,6 @@ description: Martin Mayer | Technical Leader | Portfolio
             <div class="pixels"></div>
             <div class="gradient"></div>
             <div class="content">
-                <time datetime="{{ featured.date | date_to_xmlschema }}" class="date">
-                    {% if site.date_format == nil %}
-                        {{ featured.date | date: "%m.%d.%Y" }}
-                    {% else %}
-                        {{ featured.date | date: site.date_format }}
-                    {% endif %}
-                </time>
                 <h1 class="title">{{ featured.title }}</h1>
                 <p class="description">{{ featured.subtitle }}</p>
                 <div class="buttons">
@@ -76,9 +69,9 @@ description: Martin Mayer | Technical Leader | Portfolio
                         {% include read-icon.html %}
                     </a>
                     <div class="box-info">
-                        <time datetime="{{ initiative.date | date_to_xmlschema }}" class="date">
-                            {% include date.html date=initiative.date %}
-                        </time>
+						<time datetime="{{ initiative.init_date | date_to_xmlschema }}" class="date">
+							{{ initiative.init_date | date: "%MMMM, %Y" }}
+						</time>
                         <a class="post-link" href="{{ initiative.url | prepend: site.baseurl }}">
                             <h2 class="post-title">
                                 {{ initiative.title }}
