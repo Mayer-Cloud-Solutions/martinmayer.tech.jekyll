@@ -128,7 +128,16 @@ description: Martin Mayer | Technical Leader | Portfolio
 
 	document.addEventListener("DOMContentLoaded", function(){
 		const element = document.getElementById("portfolio");
-		element.remove();
+		if ( typeof element !== null && element !== 'undefined' ) {
+			element.remove();
+		}
+	});
+	
+	document.querySelector("portfolio").addEventListener('load', function(){
+		const element = document.getElementById("portfolio");
+		if ( typeof element !== null && element !== 'undefined' ) {
+			element.remove();
+		}
 	});
 
 </script>
