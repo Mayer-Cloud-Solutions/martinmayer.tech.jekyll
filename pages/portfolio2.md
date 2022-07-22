@@ -22,7 +22,7 @@ description: Martin Mayer | Technical Leader | Portfolio
     {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         <!-- Hero -->
         {% assign featured = initiatives.first %}
-        <section class="hero" style="background-image: url({{ featured.image }})">
+        <section class="hero_portfolio" style="background-image: url({{ featured.image }})">
             <div class="pixels"></div>
             <div class="gradient"></div>
             <div class="content">
