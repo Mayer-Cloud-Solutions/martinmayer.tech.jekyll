@@ -26,13 +26,8 @@ description: Martin Mayer | Technical Leader | Portfolio
             <div class="pixels"></div>
             <div class="gradient"></div>
             <div class="content">
-                <h1 class="title">{{ featured.title }}</h1>
-                <p class="description">{{ featured.subtitle }}</p>
-                <div class="buttons">
-                    <a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
-                        <svg><use xlink:href="#icon-info"></use></svg>
-                    </a>
-                </div>
+                <a href="{{ featured.url | prepend: site.baseurl }}"><h1 class="title">{{ featured.title }}</h1></a>
+                <p class="description"><a href="{{ featured.url | prepend: site.baseurl }}">{{ featured.subtitle }}</a></p>
             </div>
         </section>
     {% endif %}
