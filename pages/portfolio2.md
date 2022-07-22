@@ -70,7 +70,7 @@ description: Martin Mayer | Technical Leader | Portfolio
                     </a>
                     <div class="box-info">
 						<time datetime="{{ initiative.init_date | date_to_xmlschema }}" class="date">
-							{{ initiative.init_date | date: "%MMMM, %Y" }}
+							{{ initiative.init_date | date: "%B, %Y" }}
 						</time>
                         <a class="post-link" href="{{ initiative.url | prepend: site.baseurl }}">
                             <h2 class="post-title">
