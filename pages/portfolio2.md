@@ -26,8 +26,8 @@ description: Martin Mayer | Technical Leader | Portfolio
             <div class="pixels"></div>
             <div class="gradient"></div>
             <div class="content">
-                <a href="{{ featured.url | prepend: site.baseurl }}"><h1 class="title">{{ featured.title }}</h1></a>
-                <p class="description"><a href="{{ featured.url | prepend: site.baseurl }}">{{ featured.subtitle }}</a></p>
+                <h1 class="title">{{ featured.title }}</h1>
+                <p class="description">{{ featured.subtitle }}</p>
             </div>
         </section>
     {% endif %}
