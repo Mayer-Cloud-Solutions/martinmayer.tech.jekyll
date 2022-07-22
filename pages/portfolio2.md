@@ -30,8 +30,7 @@ description: Martin Mayer | Technical Leader | Portfolio
                 <p class="description">{{ featured.subtitle }}</p>
                 <div class="buttons">
                     <a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
-                        <svg><use xlink:href="#icon-read"></use></svg>
-                        <span>{{ site.translations.button.read_now | default: "Read Now" }}</span>
+                        <svg><use xlink:href="#icon-info"></use></svg>
                     </a>
                 </div>
             </div>
