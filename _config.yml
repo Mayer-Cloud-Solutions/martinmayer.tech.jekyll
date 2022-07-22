@@ -16,8 +16,6 @@ menu:
     url: /about
   - title: Portfolio
     url: /portfolio
-  - title: Portfolio2
-    url: /portfolio2
   - title: Contact
     url: /contact
 #  - title: Feed
