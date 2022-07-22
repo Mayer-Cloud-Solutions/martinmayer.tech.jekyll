@@ -9,10 +9,10 @@
         <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
             <article role="article" class="post-content">
                 <p class="post-info">
-                    {% if page.date %}
+                    {% if page.init_date %}
                         <svg class="icon-calendar" id="date"><use xlink:href="#icon-calendar"></use></svg>
-                        <time class="date" datetime="{{ page.date | date_to_xmlschema }}">
-                            {% include date.html date=page.date %}
+                        <time class="date" datetime="{{ page.init_date | date_to_xmlschema }}">
+                            {% include date.html date=page.init_date %}
                         </time>
                     {% endif %}
                     <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
@@ -127,9 +127,9 @@
             "articleBody": "{{ content | strip_html | xml_escape | textilize }}",
             "wordcount": "{{ content | number_of_words }}",
             "inLanguage": "{{ site.language }}",
-            "dateCreated": "{{ page.date | date: '%Y-%m-%d/' }}",
-            "datePublished": "{{ page.date | date: '%Y-%m-%d/' }}",
-            "dateModified": "{{ page.date | date: '%Y-%m-%d/' }}",
+            "dateCreated": "{{ page.init_date | date: '%Y-%m-%d/' }}",
+            "datePublished": "{{ page.init_date | date: '%Y-%m-%d/' }}",
+            "dateModified": "{{ page._init_date | date: '%Y-%m-%d/' }}",
             "author": {
                 "@type": "Person",
                 "name": "{{ author.display_name }}",
