@@ -38,7 +38,7 @@
                 <aside class="see-also">
                     <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
                     <ul>
-                        {% assign next_initiatives = site.initiatives | where_exp:"initiative","initiative.is_generated != true" | where_exp:"initiative","initiative.path != page.path" | where_exp:"initiative","initiative.feature != true" %}
+                        {% assign next_initiatives = site.initiatives | where_exp:"initiative","initiative.is_generated != true" | where_exp:"initiative","initiative.path != page.path" | where_exp:"initiative","initiative.featured != true" %}
                         {% assign shuffled_array = next_initiatives | shuffle %}
                         {% for initiative in shuffled_array limit:3 %}
                             <li>
