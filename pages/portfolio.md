@@ -34,7 +34,7 @@ description: Martin Mayer | Technical Leader | Portfolio
     <!-- Initiatives -->
     <section id="grid" class="row flex-grid">
         {% for initiative in initiatives offset: offset %}
-            <article class="box-item">
+            <article class="box-item-init">
                 <span class="category">
                     <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ initiative.category }}">
                         <span>{{ initiative.category }}</span>
