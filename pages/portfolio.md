@@ -63,9 +63,14 @@ description: Martin Mayer | Technical Leader | Portfolio
                         {% include read-icon.html %}
                     </a>
                     <div class="box-info">
-						<time datetime="{{ initiative.init_date | date_to_xmlschema }}" class="date">
-							{{ initiative.init_date | date: "%B, %Y" }}
-						</time>
+						<span class="init_listing_date">
+                            <time datetime="{{ initiative.init_date | date_to_xmlschema }}" class="date">
+							    {{ initiative.init_date | date: "%B, %Y" }}
+						    </time>
+                        </span>
+                        <span class="init_listing_business">
+                            {{ initiative.business }}
+                        </span>
                         <a class="post-link" href="{{ initiative.url | prepend: site.baseurl }}">
                             <h2 class="post-title">
                                 {{ initiative.title }}
