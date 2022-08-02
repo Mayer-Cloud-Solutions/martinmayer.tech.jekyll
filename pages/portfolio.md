@@ -63,28 +63,32 @@ description: Martin Mayer | Technical Leader | Portfolio
                         {% include read-icon.html %}
                     </a>
                     <div class="box-info">
-						<span class="init_listing_date">
-                            <time datetime="{{ initiative.init_date | date_to_xmlschema }}" class="date">
-							    {{ initiative.init_date | date: "%B, %Y" }}
-						    </time>
-                        </span>
-                        <span class="init_listing_business business">
-                            {{ initiative.business }}
-                        </span>
-                        <a class="post-link" href="{{ initiative.url | prepend: site.baseurl }}">
-                            <h2 class="post-title">
-                                {{ initiative.title }}
-                            </h2>
-                        </a>
-                        <a class="post-link" href="{{ initiative.url | prepend: site.baseurl }}">
-                            <p class="description">{{ initiative.description }}</p>
-                        </a>
-                        <div class="tags">
-                            {% for tag in initiative.tags %}
-                                {% if tag != "" %}
-                                    <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
-                                {% endif %}
-                            {% endfor %}
+                        <div>
+                            <span class="init_listing_date">
+                                <time datetime="{{ initiative.init_date | date_to_xmlschema }}" class="date">
+                                    {{ initiative.init_date | date: "%B, %Y" }}
+                                </time>
+                            </span>
+                            <span class="init_listing_business business">
+                                {{ initiative.business }}
+                            </span>
+                        </div>
+                        <div>
+                            <a class="post-link" href="{{ initiative.url | prepend: site.baseurl }}">
+                                <h2 class="post-title">
+                                    {{ initiative.title }}
+                                </h2>
+                            </a>
+                            <a class="post-link" href="{{ initiative.url | prepend: site.baseurl }}">
+                                <p class="description">{{ initiative.description }}</p>
+                            </a>
+                            <div class="tags">
+                                {% for tag in initiative.tags %}
+                                    {% if tag != "" %}
+                                        <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">#{{ tag }}</a>
+                                    {% endif %}
+                                {% endfor %}
+                            </div>
                         </div>
                     </div>
                 </div>
