@@ -63,7 +63,7 @@ description: Martin Mayer | Technical Leader | Portfolio
                         {% include read-icon.html %}
                     </a>
                     <div class="box-info">
-                        <div>
+                        <div class="init_listing_top_line">
                             <span class="init_listing_date">
                                 <time datetime="{{ initiative.init_date | date_to_xmlschema }}" class="date">
                                     {{ initiative.init_date | date: "%B, %Y" }}
