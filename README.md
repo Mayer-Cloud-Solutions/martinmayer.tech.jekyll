@@ -1,6 +1,6 @@
 # Website
 
-Portfolio website for Mayer Cloud Solutions which is a consultantcy owned and managed by Martin Mayer
+Portfolio website for Mayer Cloud Solutions which is a consultancy owned and managed by Martin Mayer
 
 ### This website is based on Jekflix Template
 
