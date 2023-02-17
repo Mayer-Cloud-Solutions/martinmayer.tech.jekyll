@@ -1,5 +1,5 @@
 ---
-sorting: 00500
+sorting: 01001
 reference: sorted-offshore-dev-manager
 title: Offshore Development Manager at Sorted
 description:
