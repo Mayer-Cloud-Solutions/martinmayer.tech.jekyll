@@ -2,7 +2,7 @@ name: Jekyll site CI/CD for martinmayer.tech
 
 on:
   push:
-    branches: [ "main", "feat/**" ]
+    branches: [ "main", "feat/**", "post/**" ]
   pull_request:
     branches: [ "main" ]
 
