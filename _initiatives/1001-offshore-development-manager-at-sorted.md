@@ -4,7 +4,7 @@ reference: sorted-offshore-dev-manager
 title: Offshore Development Manager at Sorted
 description:
 business: Sorted
-init_date: 2018
+init_date: January, 2018
 featured: false
 image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_fill,h_400,w_760/v1656645970/2018-09-09_15.22.06_kkegvj.jpg
 optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_fill,h_200,w_380/v1656645970/2018-09-09_15.22.06_kkegvj.jpg
