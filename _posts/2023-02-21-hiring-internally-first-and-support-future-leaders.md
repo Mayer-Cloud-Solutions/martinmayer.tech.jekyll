@@ -74,6 +74,8 @@ There's a lot changing at the moment in the world of tech: recent job losses at 
 
 [Monzo - Lessons from Implementing Progression Frameworks at Scale](https://monzo.com/blog/lessons-from-implementing-progression-frameworks-at-scale)
 
+[Workable - The Advantages and Disadvantages of Internal Recruitment](https://resources.workable.com/stories-and-insights/advantages-disadvantages-of-internal-recruitment)
+
 #### 👍 Summary
 
 In conclusion, recognising, supporting and promoting internal candidates is a great way to identify and nurture future leaders within your existing software engineering department. By investing in the growth and development of employees and offering opportunities for professional advancement, you can build a successful and motivated workforce. It's important to establish clear criteria and guidelines for selecting candidates, prioritize internal candidates, and create an open and productive work environment. As noted, care is required to support (and avoid harming) diversity, equity, and inclusion efforts. When it comes to engineering leadership positions, assessing technical skills and leadership capabilities is key, and offering a clear progression framework can ensure a smooth transition into new roles. Ultimately, promoting from within can help create a strong and cohesive team, increase employee motivation and retention, and lead to overall organisational success.
