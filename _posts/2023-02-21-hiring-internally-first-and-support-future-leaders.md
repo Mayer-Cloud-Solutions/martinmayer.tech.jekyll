@@ -30,7 +30,7 @@ Once future leaders have been identified, it's essential to invest in their grow
 
 Having a clear progression route for all engineers, helps you retain your best talent and gets your team thinking about progression throughout their career. If you can manage a continual process, having review points throughout the year will help you avoid a big-bang annual review. It spreads the work out for managers and, more importantly, gives more opportunity for individuals. There's less pressure to get the conversation right first time and supports people progressing at their own pace. For engineer roles, you may be able to promote without a vacancy - for example, you could have more senior engineers than you have now but are unlikely to need additional key leadership roles. Decide on what's possible and make that as clear as you can.
 
-#### 🧑‍🤝‍🧑People and Progression
+#### 🧑‍🤝‍🧑 People and Progression
 
 When hiring for a senior engineering position, it's common to consider external candidates to fill the position. However, promoting from within fosters loyalty and motivation among employees. If the decision is made to open the position to internal candidates, it's crucial to conduct the hiring process effectively. Clearly articulating the competencies and behaviours that the candidate must possess ensures that employees understand what is expected of them and can work towards developing the required competencies. Managers should have open and honest conversations with employees who have expressed an interest in the position, providing feedback on the skills and behaviours required and offering support to help them develop those skills.
 
