@@ -1,5 +1,5 @@
 ---
-date: 2022-02-21 00:00:00
+date: 2023-02-21 00:00:00
 layout: post
 title: Hire Internally First and Support Future Technical Leaders
 subtitle: Develop existing engineering talent
