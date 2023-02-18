@@ -14,7 +14,7 @@ tags:
 author: martinmayer
 paginate: true
 ---
-**Promoting someone from your existing engineering team is an effective way for you to identify and nurture your future leaders and build a successful and motivated workforce. You'll increase employee retention and develop people who are passionate about, and understand, your products and the domain you operate in. Hiring internally first helps to create a strong and cohesive team, as it promotes employees' loyalty and dedication to the organization. By promoting from within, engineering departments can also send a positive message to employees that the organization values and invests in their professional growth and development, leading to a more motivated workforce. Although a number of people have been consulted, this article will be opinionated.**
+**Enabling the progression of your existing engineering team is an effective way to retain engineers and for you to identify and nurture your future leaders; building a successful and motivated workforce. You'll increase employee retention and develop people who are passionate about, and understand, your products and the domain you operate in. Hiring internally first helps to create a strong and cohesive team, as it promotes employees' loyalty and dedication to the organization. By promoting from within, engineering departments can also send a positive message to employees that the organization values and invests in their professional growth and development, leading to a more motivated workforce. Although a number of people have been consulted, this article will be opinionated.**
 
 #### ❗Disclaimer
 
