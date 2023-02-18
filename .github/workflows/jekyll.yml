@@ -2,40 +2,39 @@ name: Jekyll site CI/CD for martinmayer.tech
 
 on:
   push:
-    branches: [ "main" ]
-#    branches: [ "main", "feat/**", "post/**" ]
-#  pull_request:
-#    branches: [ "main" ]
+    branches:
+      - main
+      - 'feat/*'
+  pull_request:
+      - main
 
 jobs:
   ci-cd:
-
     runs-on: ubuntu-latest
-
     steps:
-    
-# Build
-    - uses: actions/checkout@v3
-    - name: Build the site in the jekyll/builder container
-      run: |
-        docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
-        
-# Test '_site' output (TBC)
+      - uses: actions/checkout@v2
 
-# Output
-    - uses: actions/upload-artifact@v2
-      with:
-        name: Build
-        path: ${{ github.workspace }}/_site
+      # Build
+      - name: Build the site in the jekyll/builder container
+        run: |
+          docker run \
+          -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+          jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
 
-# Deploy to Netlify
-    - name: Publish
-      uses: jsmrcaga/action-netlify-deploy@v1.1.0
-      with:
-        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
-        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITEID }}
-        NETLIFY_DEPLOY_TO_PROD: true
-        build_directory: ./_site
-        build_command: echo 'Deploy to Netlify'
+      # Test '_site' output (TBC)
+
+      # Output
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Build
+          path: ${{ github.workspace }}/_site
+
+      # Deploy to Netlify
+      - name: Publish
+        uses: jsmrcaga/action-netlify-deploy@v1.1.0
+        with:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITEID }}
+          NETLIFY_DEPLOY_TO_PROD: ${{ github.ref == 'refs/heads/main' && github.event_name == 'push' }}
+          build_directory: ./_site
+          build_command: echo 'Deploy to Netlify'
