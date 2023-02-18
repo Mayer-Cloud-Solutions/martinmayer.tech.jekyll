@@ -44,7 +44,7 @@ Hopefully, you're able to be somewhat transparent about the salary range for eac
 
 Demystify the process for internal and external candidates alike. Be deliberate, consistent and fair in the way you hire people. Make it really clear what you want from candidates and how the hiring process will work for them. Most importantly, set out what will happen if they're not ready for the role or you find a more suitable candidate. What happens if they aren't successful in their application? For external candidates, will they get feedback and when can they apply again? For internal candidates, who will give them feedback and how can they be supported in future applications? What opportunities do they have to learn missing skills or to gain valuable experience? Can you articulate whether they were considered unready for the position or that they were, but a more suitable candidate was instead offered the role?
 
-#### ⚠ Caution around DEI
+#### ⚠ Caution around Diversity, Equity and Inclusion
 
 Hiring internally first can be a great way to ensure current employees get the opportunities they deserve. However, promoting internal candidates without considering external people too can harm diversity, equity, and inclusion (DEI) efforts, if the organisation's existing workforce lacks diversity. To avoid this, you should create a diverse and inclusive work environment, implement strategies to attract and retain diverse talent, such as inclusive job descriptions, unconscious bias training, and diversity-focused employee resource groups. Additionally, organisations should examine their hiring practices to ensure that they are not biased towards promoting certain groups over others. Having clear and objective criteria for promotion, along with ongoing assessments of the process, can help ensure that internal promotion does not harm DEI efforts.
 
@@ -66,7 +66,7 @@ It won't always work out though. For everyone's benefit, mitigate the impact of 
 
 #### Case Studies
 
-There's a lot changing at the moment in the world of tech: recent job losses at FAANG companies can be scary to read but there are still great examples of employers focusing on helping engineers and tech leaders develop their careers. It's not just large businesses who do this but they're more just easier to find, with the budgets to promote themselves. Please comment if you're aware of other examples - particularly from smaller software engineer employers.
+There's a lot changing at the moment in the world of tech: recent job losses at FAANG (an acronym from Facebook [Meta], Amazon, Apple, Netflix, and Google/Alpha - pre name changes) can be scary to read but there are still great examples of employers focusing on helping engineers and tech leaders develop their careers. It's not just large businesses who do this but they're more just easier to find, with the budgets to promote themselves. Please comment if you're aware of other examples - particularly from smaller software engineer employers.
 
 [Dropbox - How personalized coaching is helping Dropboxers grow their careers](https://jobs.dropbox.com/blogs/debunking-recruiting-myths/how-personalized-coaching-is-helping-dropboxers-grow-their-caree)
 
