@@ -64,6 +64,13 @@ From day one, have regular review points to be sure the people promoted, and tho
 
 It won't always work out though. For everyone's benefit, mitigate the impact of a promotion that doesn't work out by correcting the issue quickly and support everyone involved. The role isn't always what that person expected and the person doesn't always behave how the business would expect. Perhaps they're not as ready as you all thought they were, perhaps situations outside of work means they now can't commit or maybe the role just isn't enjoyable for them and they want a way back - perhaps a mixture. As awkward as it can be to make another change, it will only be worse to leave it longer. You don't always need to return people to their previous role and maybe there's a more suitable role you can assign them that still gives them the progression they were looking for.
 
+#### Case Studies
+
+There's a lot changing at the moment in the world of tech: recent job losses at FAANG companies can be scary to read but there are still great examples of employers focusing on helping engineers and tech leaders develop their careers. It's not just large businesses who do this but they're more just easier to find, with the budgets to promote themselves. Please comment if you're aware of other examples - particularly from smaller software engineer employers.
+
+**Dropbox - How personalized coaching is helping Dropboxers grow their careers**
+https://jobs.dropbox.com/blogs/debunking-recruiting-myths/how-personalized-coaching-is-helping-dropboxers-grow-their-caree
+
 #### 👍 Summary
 
 In conclusion, recognising, supporting and promoting internal candidates is a great way to identify and nurture future leaders within your existing software engineering department. By investing in the growth and development of employees and offering opportunities for professional advancement, you can build a successful and motivated workforce. It's important to establish clear criteria and guidelines for selecting candidates, prioritize internal candidates, and create an open and productive work environment. As noted, care is required to support (and avoid harming) diversity, equity, and inclusion efforts. When it comes to engineering leadership positions, assessing technical skills and leadership capabilities is key, and offering a clear progression framework can ensure a smooth transition into new roles. Ultimately, promoting from within can help create a strong and cohesive team, increase employee motivation and retention, and lead to overall organisational success.
