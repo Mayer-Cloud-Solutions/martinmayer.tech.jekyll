@@ -28,7 +28,7 @@ Once future leaders have been identified, it's essential to invest in their grow
 
 #### 🤝 Encourage Engineers
 
-Having a clear progression route for all engineers, helps you retain your best talent and gets your team thinking about progression throughout their career. If you can manage a continual process, having review points throughout the year will help you avoid a big-bang annual review. It spreads the work out for managers and, more importantly, gives more opportunity for individuals. There's less pressure to get the conversation right first time and supports people progressing at their own pace. With ICs, you may be able to promote without a vacancy - for example, you could have more senior engineers than you have now but are unlikely to need additional leadership roles. Decide on what's possible and make that as clear as you can.
+Having a clear progression route for all engineers, helps you retain your best talent and gets your team thinking about progression throughout their career. If you can manage a continual process, having review points throughout the year will help you avoid a big-bang annual review. It spreads the work out for managers and, more importantly, gives more opportunity for individuals. There's less pressure to get the conversation right first time and supports people progressing at their own pace. For engineer roles, you may be able to promote without a vacancy - for example, you could have more senior engineers than you have now but are unlikely to need additional key leadership roles. Decide on what's possible and make that as clear as you can.
 
 #### 🧑‍🤝‍🧑People and Progression
 
