@@ -37,6 +37,7 @@ jobs:
         with:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITEID }}
+          NETLIFY_DEPLOY_MESSAGE: Deploying from [${{ github.ref }}] with event [github.event_name]
           NETLIFY_DEPLOY_TO_PROD: ${{ github.ref == 'refs/heads/main' && github.event_name == 'push' }}
           build_directory: ./_site
           build_command: echo 'Deploy to Netlify'
