@@ -66,7 +66,7 @@ It won't always work out though. For everyone's benefit, mitigate the impact of 
 
 #### Case Studies
 
-There's a lot changing at the moment in the world of tech: recent job losses at FAANG (an acronym from Facebook [Meta], Amazon, Apple, Netflix, and Google/Alpha - pre name changes) can be scary to read but there are still great examples of employers focusing on helping engineers and tech leaders develop their careers. It's not just large businesses who do this but they're more just easier to find, with the budgets to promote themselves. Please comment if you're aware of other examples - particularly from smaller software engineer employers.
+There's a lot changing at the moment in the world of tech: recent job losses at FAANG (an acronym from Facebook [Meta], Amazon, Apple, Netflix, and Google/Alpha - pre name changes) can be scary to read but there are still great examples of employers focusing on helping engineers and tech leaders develop their careers. It's not just large businesses who do this but more often their stories are easier to find, with the budgets to promote themselves. Please comment if you're aware of other examples - particularly from smaller software engineer employers.
 
 [Dropbox - How personalized coaching is helping Dropboxers grow their careers](https://jobs.dropbox.com/blogs/debunking-recruiting-myths/how-personalized-coaching-is-helping-dropboxers-grow-their-caree)
 
