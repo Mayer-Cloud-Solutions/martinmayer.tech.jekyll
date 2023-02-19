@@ -65,7 +65,7 @@
     a {
       @include mainFont();
       text-decoration: none;
-      color: black;
+      color: #4141ff;
       font-size: rem(30px);
 
       @include media(">=sm") {
