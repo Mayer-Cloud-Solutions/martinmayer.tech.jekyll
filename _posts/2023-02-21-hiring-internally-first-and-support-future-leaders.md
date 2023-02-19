@@ -47,15 +47,15 @@ Demystify the process for internal and external applicants alike. Be deliberate,
 What will happen if their application is unsuccessful?
 
 For external applicants:
-Will they get feedback? 
-When can they apply again? 
+- Will they get feedback? 
+- When can they apply again? 
 
 For internal applicants:
-Who will give them feedback?
-How can they be supported in future applications?
-What opportunities do they have to learn missing skills or gain valuable experience?
-Can you articulate whether they were considered unready for the position?
-If they were ready, was there a more suitable candidate?
+- Who will give them feedback?
+- How can they be supported in future applications?
+- What opportunities do they have to learn missing skills or gain valuable experience?
+- Can you articulate whether they were considered unready for the position?
+- If they were ready, was there a more suitable candidate?
 
 #### ⚠ Caution around Diversity, Equity and Inclusion
 
