@@ -3,18 +3,18 @@ date: 2023-02-21 09:00:00
 layout: post
 title: Hire Internally First and Support Future Technical Leaders
 subtitle: Develop existing engineering talent
-description:  By promoting from within, engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development. An action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's right to do so. 
+description: By promoting from within, engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development—an action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's right.
 image: https://res.cloudinary.com/martinmayer-tech/image/upload/v1676756442/eK-gu7-xHs8yFd.jpg
 optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_380/v1676756442/eK-gu7-xHs8yFd.jpg
 category: people
 tags:
-  - progression
-  - hiring
-  - dei
+ - progression
+ - hiring
+ - dei
 author: martinmayer
 paginate: true
 ---
-By promoting from within, engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development. An action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's right to do so.
+By promoting from within, engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development—an action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's right.
 
 #### 📈 Invest in your People
 
@@ -32,15 +32,15 @@ Once you've identified potential, investing in their growth and development is e
 
 #### 🤝 Encourage Engineers
 
-Having a clear progression route for all engineers helps to retain your best talent. It gets them thinking about progression throughout their careers.  For engineer roles, you may be able to promote without a vacancy. For example, you might decide that you don't need to limit the number of senior engineers. On the other hand, you are unlikely to need extra key leadership roles. Decide on what's possible and make that as clear as you can. 
+Having a clear progression route for all engineers helps to retain your best talent. It gets them thinking about progression throughout their careers. For engineer roles, you may be able to promote without a vacancy. For example, you might decide that you don't need to limit the number of senior engineers. On the other hand, you are unlikely to need extra key leadership roles. Decide on what's possible and make that as clear as you can. 
 
 Having review points throughout the year will help you avoid a big-bang annual review. Of course, you'll need senior leadership to buy into and fund a continual process. If practical, it spreads the work out for managers. More importantly, it gives more opportunities to individuals. There's less pressure to get the conversation right the first time. We should acknowledge that mistakes happen and frequency mitigates the impact. It also supports people in progressing at their own pace. 
 
 #### 🧑‍🤝‍🧑 People and Progression
 
-For a senior engineering position, you may favour external candidates to fill the position. You might value a fresh perspective or perhaps the role has risk attached. Yet, promoting from within fosters loyalty and motivation among employees. If you open the role to internal candidates, it's crucial to conduct the hiring process effectively. Managers should contact employees who have expressed an interest in the position. Have open and honest conversations. Provide feedback on the skills and behaviours required. Offer support to help them develop those skills. Clearly articulate the competencies and behaviours that the candidate must possess now. What can be learned along the way? Ensure that employees understand what you expect of them. Then can collaborate on understanding the required competencies.
+For a senior engineering position, you may favour external candidates to fill the position. You might value a fresh perspective, or perhaps the role has risk attached. Yet, promoting from within fosters loyalty and motivation among employees. If you open the role to internal candidates, it's crucial to conduct the hiring process effectively. Managers should contact employees who have expressed an interest in the position. Have open and honest conversations. Provide feedback on the skills and behaviours required. Offer support to help them develop those skills. Clearly articulate the competencies and behaviours that the candidate must possess now. What can be learned along the way? Ensure that employees understand what you expect of them. Then can collaborate on understanding the required competencies.
 
-To encourage and support the advancement of internal candidates, clarity is key. Establish clear criteria and guidelines for selecting candidates. The selection process should prioritise internal candidates. Give them a fair and equitable chance to apply. In cases where it is necessary to hire external candidates, you can think about improving opportunities. The role should include developing talented individuals as potential successors. You'll likely expect this new person to support the progression of your internal team. Make sure that *"coaching and mentoring future leaders"* is on the job description.
+Clarity is key. Establish clear criteria and guidelines for selecting candidates. The selection process should prioritise internal candidates. Give them a fair and equitable chance to apply. In cases where it is necessary to hire external candidates, you can think about improving opportunities. The role should include developing talented individuals as potential successors. You'll likely expect this new person to support the progression of your internal team. Make sure that *"coaching and mentoring future leaders"* is on the job description.
 
 #### 💸 Salary Expectations
 
@@ -65,7 +65,7 @@ For internal applicants:
 
 #### ⚠ Caution around Diversity, Equity and Inclusion
 
-Hiring internally first can be a great way to ensure current employees get the opportunities they deserve. However, it's not a panacea for perfect progression. Promoting internal candidates without considering external people can be problematic. It can harm diversity, equity, and inclusion (DEI) efforts especially if you have existing challenges. To avoid this, you should create a diverse and inclusive work environment. Put in place strategies to attract and retain diverse talents. Consider inclusive job descriptions, unconscious bias training, and diversity-focused employee resource groups. Additionally, organisations should examine their hiring practices. Check they are not biased towards promoting certain groups over others. Have clear and objective criteria for promotions. Ongoing process assessments audit that internal opportunities do not harm DEI efforts.   
+Hiring internally first can be a great way to ensure current employees get the opportunities they deserve. However, it's not a panacea for perfect progression. Promoting internal candidates without considering external people can be problematic. It can harm diversity, equity, and inclusion (DEI) efforts, especially if you have existing challenges. To avoid this, you should create a diverse and inclusive work environment. Put in place strategies to attract and retain diverse talents. Consider inclusive job descriptions, unconscious bias training, and diversity-focused employee resource groups. Additionally, organisations should examine their hiring practices. Check they are not biased towards promoting certain groups over others. Have clear and objective criteria for promotions. Ongoing process assessments audit that internal opportunities do not harm DEI efforts. 
 
 #### ❤️ Credible and Empathetic Leaders
 
@@ -73,13 +73,13 @@ Regarding engineering leadership positions, favouring candidates with a software
 
 Only certain people want or have the skills to be a manager. It's unprofessional and unkind to place someone unsuitable. You need people with high emotional intelligence. Also, they need the willingness to balance the needs of their reports and the business when making decisions. It's not the right move for everyone; even then, the timing has to be suitable for that person.
 
-Leadership roles are not all equal and need distinct skill sets. Equipping a technical (individual contributor) track and a manager track will give you more options. It allows people to lead differently. For example, someone might be uncomfortable with the people development aspects. **Engineering Manager** and **Head of Engineering** on one side.  **Staff Engineer** and **Solutions Architect** on the other. 
+Leadership roles are not all equal and need distinct skill sets. Equipping a technical (individual contributor) track and a manager track will give you more options. It allows people to lead differently. For example, someone might be uncomfortable with the people development aspects. **Engineering Manager** and **Head of Engineering** on one side. **Staff Engineer** and **Solutions Architect** on the other. 
 
 #### ⬆️ Consider a Progression Framework
 
-An engineering progression framework is a structured set of guidelines and expectations. The framework defines the skills, competencies, and experiences. It describes what is needed for engineers to advance in their careers. It outlines the knowledge, responsibilities, and behaviours required for each level of advancement. Enabling employees to understand how to develop their careers and what the business expects from them. If written correctly, the framework can provide a clear career path for employees. It can guide equitable and consistent promotions, and create a more motivated and engaged workforce. However, you can't bake in DEI, so ensure that what you publish supports your efforts to be fair and inclusive.
+An engineering progression framework is a structured set of guidelines and expectations. The framework defines the skills, competencies, and experiences. It describes what is needed for engineers to advance in their careers. It outlines the knowledge, responsibilities, and behaviours required for each level of advancement. Enabling employees to understand how to develop their careers and what the business expects from them. If written correctly, the framework can provide a clear career path for employees. It can guide equitable and consistent promotions and create a more motivated and engaged workforce. However, you can't bake in DEI, so ensure that what you publish supports your efforts to be fair and inclusive.
 
-With a published progression framework, businesses can provide clear guidance. What skills and experience are necessary for advancement. The framework can help prepare both managers and individual contributors for their roles. It's help them make a smooth transition into their new positions or prepare for the future. By proposing a path for growth and development, organisations prove commitment to their employees. They increase employee motivation and job satisfaction. They will more often retain team members seeking growth opportunities.
+With a published progression framework, businesses can provide clear guidance. What skills and experience are necessary for advancement? The framework can help prepare both managers and individual contributors for their roles. It will help them make a smooth transition into their new positions or prepare for the future. By proposing a path for growth and development, organisations prove commitment to their employees. They increase employee motivation and job satisfaction. They will more often retain team members seeking growth opportunities.
 
 #### 🙌 Support in the role
 
@@ -105,6 +105,6 @@ A lot is changing at the moment in the world of tech. Recent job losses at compa
 
 #### 💡 Summary
 
-In conclusion, promoting internal candidates is a great way to encourage future leaders. By investing in the development of employees, you can build a motivated workforce. Establishing clear criteria and guidelines for selecting candidates is essential. By offering opportunities for professional advancement, you'll create an open, productive work environment. As noted, it requires care to support diversity, equity, and inclusion efforts. For engineering leadership positions, it's critical to assess both technical and interpersonal capabilities. Offering a clear progression framework can ensure a smooth transition into new roles. Promoting from within can help create a strong and cohesive team. That in turn will increase employee motivation and retention, leading to organisational success.
+In conclusion, promoting internal candidates is a great way to encourage future leaders. By investing in the development of employees, you can build a motivated workforce. Establishing clear criteria and guidelines for selecting candidates is essential. By offering opportunities for professional advancement, you'll create an open, productive work environment. As noted, it requires care to support diversity, equity, and inclusion efforts. For engineering leadership positions, it's critical to assess both technical and interpersonal capabilities. Offering a clear progression framework can ensure a smooth transition into new roles. Promoting from within can help create a strong and cohesive team. That, in turn, will increase employee motivation and retention, leading to organisational success.
 
 ---
