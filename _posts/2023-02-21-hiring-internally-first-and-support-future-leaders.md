@@ -87,7 +87,8 @@ Progression success is not guaranteed. The move can lead to unexpected outcomes 
 - they are not as ready as you all thought they were
 - situations outside of work mean they now can't commit
 - the role isn't enjoyable for them, and they want a way back
- As awkward as it can be to make another change, it will only be worse to leave it for longer. You don't always need to return people to their previous roles. Often there's an alternate role that still gives them the progression they sought. Promptly mitigate the impact of a promotion that doesn't work out. Correct the issue as soon as possible and support everyone involved.
+
+As awkward as it can be to make another change, it will only be worse to leave it for longer. You don't always need to return people to their previous roles. Often there's an alternate role that still gives them the progression they sought. Promptly mitigate the impact of a promotion that doesn't work out. Correct the issue as soon as possible and support everyone involved.
 
 #### 🔬 Case Studies
 
