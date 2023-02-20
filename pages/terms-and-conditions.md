@@ -18,13 +18,15 @@
 
 <p>Unless otherwise stated, martinmayer.tech and/or its licensors own the intellectual property rights for all material on Martin Mayer | Thoughts on technical leadership. All intellectual property rights are reserved. You may access this from Martin Mayer | Thoughts on technical leadership for your own personal use subjected to restrictions set in these terms and conditions.</p>
 
-<p>You must not:</p>
-<ul>
-    <li>Republish material from Martin Mayer | Thoughts on technical leadership</li>
-    <li>Sell, rent or sub-license material from Martin Mayer | Thoughts on technical leadership</li>
-    <li>Reproduce, duplicate or copy material from Martin Mayer | Thoughts on technical leadership</li>
-    <li>Redistribute content from Martin Mayer | Thoughts on technical leadership</li>
-</ul>
+You must not:
+- Republish material from Martin Mayer | Thoughts on technical leadership
+- Sell, rent or sub-license material from Martin Mayer | Thoughts on technical leadership
+- Reproduce, duplicate or copy material from Martin Mayer | Thoughts on technical leadership
+- Redistribute content from Martin Mayer | Thoughts on technical leadership
+
+This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the Free Terms and Conditions Generator.
+
+THE SOFTWARE AND WEBSITE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <p>This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the <a href="https://www.termsandconditionsgenerator.com/">Free Terms and Conditions Generator</a>.</p>
 
