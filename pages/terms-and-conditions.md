@@ -1,3 +1,11 @@
+---
+layout: page
+menu: false
+date: '2023-02-20 09:00:00'
+title: Terms and Conditions
+permalink: /terms-and-conditions/
+description: Terms and conditions of using the martinmayer.tech website
+---
 <h2><strong>Terms and Conditions</strong></h2>
 
 <p>Welcome to Martin Mayer | Thoughts on technical leadership!</p>
