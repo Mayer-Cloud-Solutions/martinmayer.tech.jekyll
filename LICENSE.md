@@ -1,6 +1,8 @@
 In regard to the original content of this website constituting the articles, portfolio and website pages of **Martin Mayer | Thoughts on technical leadership**, the following license applies.
 
-License
+### License
+##### Copyright (c) 2023 Martin Mayer
+[martinmayer.tech](http://www.martinmayer.tech)
 
 Unless otherwise stated, martinmayer.tech and/or its licensors own the intellectual property rights for all material on Martin Mayer | Thoughts on technical leadership. All intellectual property rights are reserved. You may access this from Martin Mayer | Thoughts on technical leadership for your own personal use subjected to restrictions set in these terms and conditions.
 
@@ -32,10 +34,10 @@ You hereby grant martinmayer.tech a non-exclusive license to use, reproduce, edi
 
 The following license applies strictly in regard to the Jetflix template and related assets used in this website to leverage the Jekyll framework.
 
-*"The MIT License (MIT)
+### "The MIT License (MIT)
 
-Copyright (c) 2019 Thiago Rossener <thiago.rossener@gmail.com>
-https://rossener.com/
+##### Copyright (c) 2019 Thiago Rossener <thiago.rossener@gmail.com>
+##### https://rossener.com/
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
