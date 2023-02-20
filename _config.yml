@@ -18,6 +18,8 @@ menu:
     url: /portfolio
   - title: Contact
     url: /contact
+  - title: Terms and Conditions
+    url: /terms-and-conditions
 #  - title: Feed
 #    url: /feed.xml
 email: martin@martinmayer.tech
