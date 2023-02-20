@@ -161,6 +161,10 @@ collections:
       - label: "Bio"
         name: "bio"
         widget: "text"
+      - label: "This Website URL"
+        name: "this_website_url"
+        widget: "string"
+        required: true
       - label: "GitHub Username"
         name: "github_username"
         widget: "string"
