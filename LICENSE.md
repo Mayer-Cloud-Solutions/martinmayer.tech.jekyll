@@ -7,16 +7,16 @@ In regard to the original content of this website constituting the articles, por
 Unless otherwise stated, martinmayer.tech and/or its licensors own the intellectual property rights for all material on Martin Mayer | Thoughts on technical leadership. All intellectual property rights are reserved. You may access this from Martin Mayer | Thoughts on technical leadership for your own personal use subjected to restrictions set in these terms and conditions.
 
 You must not:
-
-Republish material from Martin Mayer | Thoughts on technical leadership
-Sell, rent or sub-license material from Martin Mayer | Thoughts on technical leadership
-Reproduce, duplicate or copy material from Martin Mayer | Thoughts on technical leadership
-Redistribute content from Martin Mayer | Thoughts on technical leadership
+- Republish material from Martin Mayer | Thoughts on technical leadership
+- Sell, rent or sub-license material from Martin Mayer | Thoughts on technical leadership
+- Reproduce, duplicate or copy material from Martin Mayer | Thoughts on technical leadership
+- Redistribute content from Martin Mayer | Thoughts on technical leadership
+- 
 This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the Free Terms and Conditions Generator.
 
-Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. martinmayer.tech does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of martinmayer.tech,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, martinmayer.tech shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.
+THE SOFTWARE AND WEBSITE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-THE SOFTWARE AND WEBSITE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. martinmayer.tech does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of martinmayer.tech,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, martinmayer.tech shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.
 
 martinmayer.tech reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.
 
