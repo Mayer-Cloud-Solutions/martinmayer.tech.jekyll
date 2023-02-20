@@ -79,7 +79,7 @@ With a published progression framework, businesses can provide clear guidance. W
 
 #### 🙌 Support in the role
 
-From day one, have regular review points to be sure the people promoted, and those they work with are well-supported. It's common for people recently in a new role to feel vulnerable and grateful for the opportunity. Imposter syndrome can kick in, making them anxious about asking for help as they don't want to draw attention to gaps in their skills. Make it easy for them to ask by normalising training needs and offering mentorship with approachable advocates. People are much more likely to succeed if they know they're not alone, and businesses expect a steady learning curve.
+From day one, have regular review points to be sure the people promoted, and those they work with, are well-supported. It's common for people recently in a new role to feel vulnerable and grateful for the opportunity. Imposter syndrome can kick in, making them anxious about asking for help as they don't want to draw attention to gaps in their skills. Make it easy for them to ask by normalising training needs and offering mentorship with approachable advocates. People are much more likely to succeed if they know they're not alone, and businesses expect a steady learning curve.
 
 Progression success is not guaranteed. The move can lead to unexpected outcomes for the business and the individual:
 - they are not as ready as you all thought they were
