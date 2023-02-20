@@ -23,7 +23,7 @@ The Comments do not contain any defamatory, libelous, offensive, indecent or oth
 The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.
 You hereby grant martinmayer.tech a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.
 
-[Full Terms and Conditions can be found here]({{ site.this_website_url }}{{ page.url }})
+[Full Terms and Conditions can be found here](https://www.martinmayer.tech/terms-and-conditions/)
 
 
 ---------------------------------
