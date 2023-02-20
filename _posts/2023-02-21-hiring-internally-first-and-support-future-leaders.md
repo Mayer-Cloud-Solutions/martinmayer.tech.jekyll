@@ -40,7 +40,7 @@ Clarity is key. Establish clear criteria and guidelines for selecting candidates
 
 #### 💸 Salary Expectations
 
-I hope you are transparent about the salary range for each role. Openness inspires much trust as long as what you're sharing is defensible. Ensure you have great conversations about why someone is where their salary is within the range and what they can do to move along. Plan to address any discrepancies and ensure managers are calibrating their decisions. Be at least as open with your existing team about pay as with external candidates, or risk losing great staff. Remember, people will talk about their wages (no matter what you would like), so be fair about how you reward your engineers.
+I hope you are transparent about the salary range for each role. Openness inspires much trust as long as what you're sharing is defensible. Ensure you have great conversations about why there is a salary range and provide feedback on what improvements you require from them to move them along the scale. Plan to address any discrepancies and ensure managers are calibrating their decisions. Be at least as open with your existing team about pay as with external candidates, or risk losing great staff. Remember, people will talk about their wages (no matter what you would like), so be fair about how you reward your engineers.
 
 #### 🏆 Reward Persistent Effort
 
