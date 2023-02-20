@@ -20,9 +20,7 @@ By promoting from within, engineering departments can send a positive message to
 
 Enabling the progression of your engineering team is essential to retaining great people. Promoting frequently and hiring internally first is a strategy you should consider. It allows you to identify and nurture your future leaders. You will be building a successful and motivated workforce. Your teams will develop people who are passionate about your products. They will understand the domain within which you operate. Internal opportunities help to create a solid and cohesive team. A practice that builds upon your employees' loyalty and dedication to the organisation. 
 
-#### ❗Disclaimer
-
-> *The information provided in this article is for general guidance and informational purposes only. We do not intend the article to constitute legal advice. As an employer, you must ensure compliance with all applicable employment laws and regulations. This article is not a substitute for obtaining legal advice from a qualified employment lawyer on your legal obligations as an employer. The author and publisher disclaim all liability in respect of any actions taken or not taken based on any or all of the contents of this article.* 
+> *❗Disclaimer: The information provided in this article is for general guidance and informational purposes only. We do not intend the article to constitute legal advice. As an employer, you must ensure compliance with all applicable employment laws and regulations. This article is not a substitute for obtaining legal advice from a qualified employment lawyer on your legal obligations as an employer. The author and publisher disclaim all liability in respect of any actions taken or not taken based on any or all of the contents of this article.* 
 
 #### 🔍 Identify Future Leaders
 
