@@ -71,7 +71,7 @@ Regarding engineering leadership positions, favouring candidates with a software
 
 Only certain people want or have the skills to be a manager. It's unprofessional and unkind to place someone unsuitable. You need people with high emotional intelligence. Also, they need the willingness to balance the needs of their reports and the business when making decisions. It's not the right move for everyone; even then, the timing has to be suitable for that person.
 
-Leadership roles are not all equal and need distinct skill sets. Equipping a technical (individual contributor) track and a manager track will give you more options. It allows people to lead differently. For example, someone might be uncomfortable with the people development aspects. **Engineering Manager** and **Head of Engineering** on one side. **Staff Engineer** and **Solutions Architect** on the other. 
+Leadership roles are not all equal and need distinct skill sets. Equipping a technical (individual contributor) track and a manager track will give you more options. It allows people to lead differently. For example, someone might be uncomfortable with the people development aspects. There is often crossover but you can align roles broadly to one side or the other in many cases. **Engineering Manager** and **Head/Director of Engineering** on one side. **Staff Engineer** and **Solutions Architect** on the other. Supprting different pathways allows people to feel more comfortable as they move into leadership roles.
 
 #### ⬆️ Consider a Progression Framework
 
