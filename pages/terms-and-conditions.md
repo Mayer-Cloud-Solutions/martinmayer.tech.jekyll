@@ -1,6 +1,6 @@
 ---
 layout: page
-menu: false
+menu: true
 date: '2023-02-20 09:00:00'
 title: Terms and Conditions
 permalink: /terms-and-conditions/
