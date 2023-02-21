@@ -18,7 +18,11 @@ Retention of software engineers remains a priority for many businesses, as it's 
 
 #### 📈 Invest in your People
 
-Enabling the progression of your engineering team is essential to retaining great people. Promoting frequently and hiring internally first is a strategy you should consider. It allows you to identify and nurture your future leaders. You will be building a successful and motivated workforce. Your teams will develop people who are passionate about your products. They will understand the domain within which you operate. Internal opportunities help to create a solid and cohesive team. A practice that builds upon your employees' loyalty and dedication to the organisation. 
+Enabling the progression of your engineering team is essential to retaining great people. Promoting frequently and hiring internally first is a strategy you should consider, it allows you to:
+  - identify and nurture your future leaders
+  - develop people who are passionate about your products 
+  - create solid and cohesive teams 
+  - build upon your employees’ loyalty and dedication to the organisation 
 
 #### 🔍 Identify Future Leaders
 
@@ -102,13 +106,10 @@ As awkward as it can be to make another change, it will only be worse to leave i
 
 A lot is changing at the moment in the world of tech. Recent job losses at companies like Alpha and Microsoft can be scary to read. However, there are still great examples of employers focusing on personal development. There are many organisations helping engineers and tech leaders develop their careers. It's not only large businesses that do this. Their stories are often easier to find, with the budgets to promote themselves. 🙏Please comment if you're aware of other examples.
 
-[Dropbox - How personalised coaching is helping Dropboxers grow their careers](https://jobs.dropbox.com/blogs/debunking-recruiting-myths/how-personalized-coaching-is-helping-dropboxers-grow-their-caree)
-
-[Spotify - Grow with us](https://www.lifeatspotify.com/being-here/grow-with-us)
-
-[Monzo - Lessons from Implementing Progression Frameworks at Scale](https://monzo.com/blog/lessons-from-implementing-progression-frameworks-at-scale)
-
-[Workable - The Advantages and Disadvantages of Internal Recruitment](https://resources.workable.com/stories-and-insights/advantages-disadvantages-of-internal-recruitment)
+- [Dropbox - How personalised coaching is helping Dropboxers grow their careers](https://jobs.dropbox.com/blogs/debunking-recruiting-myths/how-personalized-coaching-is-helping-dropboxers-grow-their-caree)
+- [Spotify - Grow with us](https://www.lifeatspotify.com/being-here/grow-with-us)
+- [Monzo - Lessons from Implementing Progression Frameworks at Scale](https://monzo.com/blog/lessons-from-implementing-progression-frameworks-at-scale)
+- [Workable - The Advantages and Disadvantages of Internal Recruitment](https://resources.workable.com/stories-and-insights/advantages-disadvantages-of-internal-recruitment)
 
 #### 💡 Summary
 
