@@ -6,7 +6,7 @@ subtitle: Develop existing engineering talent
 description: Retention of software engineers remains a priority for many businesses, as it's hard to find talented people and it can take a long time to train up someone new. Organisations should align with their employees on what might tempt them to stay but often progression opportunities are a key battleground. By promoting from within, software engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development—an action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's the right time. I'll walk through some of the things you should think about as an employer to decide if it's the correct strategy for you.
 image: https://res.cloudinary.com/martinmayer-tech/image/upload/v1676756442/eK-gu7-xHs8yFd.jpg
 optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_380/v1676756442/eK-gu7-xHs8yFd.jpg
-category: people
+category: skills-development
 tags:
  - progression
  - hiring
