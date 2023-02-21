@@ -87,7 +87,7 @@ Leadership roles are not all equal and need distinct skill sets. Equipping a tec
 
 The image below, shows an example map of the progression tracks within a technical department. Your organisation might be very different: having different titles, a flatter structure or including other tracks to support data analysis, machine learning, software infrastructure or site relability. None the less, a map like this can demonstrate the opportunities for engineers and other technicians within the business and make progression more open. You might choose to draw lines between roles to show pathways but that can restrict conversation if you're not careful. Decide if progression is a ladder or a river. Is management a dead end for your career or is it a pit stop along a weaving pathway? I favour the latter concept which can feel more flexible when considering your career.
 
-![Example Technical Department Progression Tracks](https://res.cloudinary.com/martinmayer-tech/image/upload/v1677005367/blog-posts/_progression/ExampleTechnicalDepartmentProgressionTracks_jpsuzx.jpg)
+![Example Technical Department Progression Tracks](https://res.cloudinary.com/martinmayer-tech/image/upload/v1677009361/blog-posts/_progression/ExampleTechnicalDepartmentProgressionTracks_kbuaed.jpg)
 
 #### ⬆️ Consider a Progression Framework
 
