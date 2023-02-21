@@ -67,11 +67,11 @@ For internal applicants:
 
 There are many things that can be done to support people gaining work experience and learning opportunities on something other than their current role. Many of these will need buy-in from other departments but small experiments can be undertaken by Engineering without significant impact. Here are a few options to consider:
 
-- Allow engineers to shadow people in other roles - in some cases this will put people off a role rather than encourage them but this is useful information towards their career development and helps them find their pathway
-- Aim for dedicated Learning and Development time each week so that people have an uninterupted opportunity to sharpen their skills
-- Make people development a core responsibility of line managers so that the current role doesn't get in the way of opportunity - it can be easy for managers to prioritise current requirements and other operational concerns over someone's career journey
-- Set up one to one mentoring so people can network with someone who's further along the pathway - reverse mentoring can also be useful (for example, a senior manager wants to learn how some of the services work from an engineer) as both parties gain from the interaction, the engineer getting to work with someone who can later guide them in their role
-- Set up a peer mentoring scheme for engineers to support each other in their careers and learn essential skills at the same time
+- **Shadowing** - Allow engineers to shadow people in other roles - in some cases this will put people off a role rather than encourage them but this is useful information towards their career development and helps them find their pathway
+-**Learning and Development Time** - Aim for dedicated Learning and Development time each week so that people have an uninterupted opportunity to sharpen their skills
+- **People Development** - Make people development a core responsibility of line managers so that the current role doesn't get in the way of opportunity - it can be easy for managers to prioritise current requirements and other operational concerns over someone's career journey
+- **One to One Mentoring** - Set up one to one mentoring so people can network with someone who's further along the pathway - reverse mentoring can also be useful (for example, a senior manager wants to learn how some of the services work from an engineer) as both parties gain from the interaction, the engineer getting to work with someone who can later guide them in their role
+- **Peer Mentoring** - Set up a peer mentoring scheme for engineers to support each other in their careers and learn essential skills at the same time
 
 #### ❗ Caution around Diversity, Equity and Inclusion
 
