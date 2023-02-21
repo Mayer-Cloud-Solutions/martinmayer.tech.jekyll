@@ -3,7 +3,7 @@ date: 2023-02-21 09:00:00
 layout: post
 title: Hire Internally First and Support Future Technical Leaders
 subtitle: Develop existing engineering talent
-description: By promoting from within, engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development—an action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's right.
+description: By promoting from within, engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development—an action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's the right time.
 image: https://res.cloudinary.com/martinmayer-tech/image/upload/v1676756442/eK-gu7-xHs8yFd.jpg
 optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_380/v1676756442/eK-gu7-xHs8yFd.jpg
 category: people
@@ -14,7 +14,7 @@ tags:
 author: martinmayer
 paginate: true
 ---
-By promoting from within, engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development—an action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's right.
+By promoting from within, engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development—an action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's the right time.
 
 #### 📈 Invest in your People
 
@@ -59,7 +59,7 @@ For internal applicants:
 - Can you articulate whether they were considered unready for the position?
 - If they were ready, was there a more suitable candidate?
 
-#### ⚠ Caution around Diversity, Equity and Inclusion
+#### ❗ Caution around Diversity, Equity and Inclusion
 
 Hiring internally first can be a great way to ensure current employees get the opportunities they deserve. However, it's not a panacea for perfect progression. Promoting internal candidates without considering external people can be problematic. It can harm diversity, equity, and inclusion (DEI) efforts, especially if you have existing challenges. To avoid this, you should create a diverse and inclusive work environment. Put in place strategies to attract and retain diverse talents. Consider inclusive job descriptions, unconscious bias training, and diversity-focused employee resource groups. Additionally, organisations should examine their hiring practices. Check they are not biased towards promoting certain groups over others. Have clear and objective criteria for promotions. Ongoing process assessments audit that internal opportunities do not harm DEI efforts. 
 
@@ -73,9 +73,9 @@ Leadership roles are not all equal and need distinct skill sets. Equipping a tec
 
 #### ⬆️ Consider a Progression Framework
 
-An engineering progression framework is a structured set of guidelines and expectations. The framework defines the skills, competencies, and experiences. It describes what is needed for engineers to advance in their careers. It outlines the knowledge, responsibilities, and behaviours required for each level of advancement. Enabling employees to understand how to develop their careers and what the business expects from them. If written correctly, the framework can provide a clear career path for employees. It can guide equitable and consistent promotions and create a more motivated and engaged workforce. However, you can't bake in DEI, so ensure that what you publish supports your efforts to be fair and inclusive.
+An engineering progression framework is a structured set of guidelines and expectations. The framework defines the skills, competencies, and experiences. It describes what is needed for engineers to advance in their careers. It outlines the knowledge, responsibilities, and behaviours required for each level of advancement. Enabling employees to understand how to develop their careers and what the business expects from them. If written correctly, the framework can provide a clear career path for employees. It can guide equitable and consistent promotions and create a more motivated and engaged workforce. However, you can't bake in diversity, equity and inclusion, so ensure that what you publish supports your efforts to offer the same opportunity to everyone.
 
-With a published progression framework, businesses can provide clear guidance. What skills and experience are necessary for advancement? The framework can help prepare both managers and individual contributors for their roles. It will help them make a smooth transition into their new positions or prepare for the future. By proposing a path for growth and development, organisations prove commitment to their employees. They increase employee motivation and job satisfaction. They will more often retain team members seeking growth opportunities.
+With a published progression framework, businesses can provide clear guidance. What skills and experience are necessary for advancement? How will you measure success so they can progress? The framework can help prepare both managers and individual contributors for their roles. It will help them make a smooth transition into their new positions or prepare for the future. By proposing a path for growth and development, organisations prove commitment to their employees. They increase employee motivation and job satisfaction. They will more often retain team members seeking growth opportunities. Decide whether the framework is a loose guide or rigid levelling tool. You need to ensure all managers use it in the same way and calibrate with each other so the outcomes are fair to all.
 
 #### 🙌 Support in the role
 
