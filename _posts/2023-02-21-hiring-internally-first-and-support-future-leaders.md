@@ -85,6 +85,8 @@ Only certain people want or have the skills to be a manager. It's unprofessional
 
 Leadership roles are not all equal and need distinct skill sets. Equipping a technical (individual contributor) track and a manager track will give you more options. It allows people to lead differently. For example, someone might be uncomfortable with the people development aspects. There is often crossover but you can align roles broadly to one side or the other in many cases. **Engineering Manager** and **Head/Director of Engineering** on one side. **Staff Engineer** and **Solutions Architect** on the other. Supporting different pathways allows people to feel more comfortable as they move into leadership roles.
 
+![Example Technical Department Progression Tracks](https://res.cloudinary.com/martinmayer-tech/image/upload/v1677005367/blog-posts/_progression/ExampleTechnicalDepartmentProgressionTracks_jpsuzx.jpg)
+
 #### ⬆️ Consider a Progression Framework
 
 An engineering progression framework is a structured set of guidelines and expectations. The framework defines the skills, competencies, and experiences. It describes what is needed for engineers to advance in their careers. It outlines the knowledge, responsibilities, and behaviours required for each level of advancement. Enabling employees to understand how to develop their careers and what the business expects from them. If written correctly, the framework can provide a clear career path for employees. It can guide equitable and consistent promotions and create a more motivated and engaged workforce. However, you can't bake in diversity, equity and inclusion, so ensure that what you publish supports your efforts to offer the same opportunity to everyone.
