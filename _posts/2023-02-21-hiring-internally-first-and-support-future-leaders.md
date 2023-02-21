@@ -3,7 +3,7 @@ date: 2023-02-21 09:00:00
 layout: post
 title: Hire Internally First and Support Future Technical Leaders
 subtitle: Develop existing engineering talent
-description: Retention of software engineers remains a priority for many businesses, as it's hard to find talented people and it can take a long time to train up someone new. Organisations should align with their employees on what might tempt them to stay but often progression opportunities are a key battleground. By promoting from within, software engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development—an action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's the right time. I'll walk through some of the things you should think about as an employer to decide if it's the correct strategy for you. 
+description: Retention of software engineers remains a priority for many businesses, as it's hard to find talented people and it can take a long time to train up someone new. Organisations should align with their employees on what might tempt them to stay but often progression opportunities are a key battleground. By promoting from within, software engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development—an action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's the right time. I'll walk through some of the things you should think about as an employer to decide if it's the correct strategy for you. Whilst I've written this with technical leaders in mind, perhaps it's equally as important for whoever needs to hire your organisation's first technical manager.
 image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_1024/q_65/v1676756442/blog-posts/main/eK-gu7-xHs8yFd.jpg
 optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_380/q_70/v1676756442/blog-posts/main/eK-gu7-xHs8yFd.jpg
 category: skills-development
@@ -14,7 +14,26 @@ tags:
 author: martinmayer
 paginate: true
 ---
-Retention of software engineers remains a priority for many businesses, as it's hard to find talented people and it can take a long time to train up someone new. Organisations should align with their employees on what might tempt them to stay but often progression opportunities are a key battleground. By promoting from within, software engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development—an action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's the right time. I'll walk through some of the things you should think about as an employer to decide if it's the correct strategy for you.
+Retention of software engineers remains a priority for many businesses, as it's hard to find talented people and it can take a long time to train up someone new. Organisations should align with their employees on what might tempt them to stay but often progression opportunities are a key battleground. By promoting from within, software engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development—an action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's the right time. I'll walk through some of the things you should think about as an employer to decide if it's the correct strategy for you. Whilst I've written this with technical leaders in mind, perhaps it's equally as important for whoever needs to hire your organisation's first technical manager.
+
+#### 😧 The Challenge: "Bob Didn't Get the Job!"
+
+Bob was Senior Engineer of a small engineering team with 3 other engineers in a relatively new business - perhaps you would call it a "startup". As a talented engineer, who was passionate about supporting his team mates, he had been all too happy to take on more responsibility when someone needed to step up. He was 1 of 2 engineers driving innovation on the team and elsewhere he was point person for the CTO and any non-technical stakeholders who needed any form of technical support. Other engineers looked to him for direction though he was also inclined to teach them (rather than do the work for them) and was passionate about sharing knowledge.
+
+<p align="center">
+
+    <img src="/upload/c_scale,w_850/.jpg" alt="Bob was a force for good on the engineering team - helping the tech and the culture" />
+</p>
+
+Eventually, the time came to grow the business again. The CTO decided they needed an "Engineering Manager" to line manage the engineers and focus them on operations towards the strategy set out to secure the next round of funding. The role was uploaded for external applicants. Bob applied but was told he wasn't considered a candidate. Recruitment continued and eventually they made an offer to an experienced engineer manager who came into the business.
+
+The new manager was really talented and spent a lot of time listening to the engineers to understand what they needed. Having been overlooked for the role, he was now losing the growth opportunities he had thrived on previously. The manager was happy for Bob to keep learning but the business didn't need him to pick up the extra tasks now. They needed him back as senior engineer and he was not sure he wanted that.
+
+<p align="center">
+    <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_450/q_60/v1677023349/blog-posts/_progression/_internal_hiring_story_of_bob/1_bob_was_a_force_for_good_on_the_engineering_team_fnu3fk.jpg" alt="Bob was a force for good on the engineering team - helping the tech and the culture" />
+</p>
+
+Bob felt frustrated throughout this transition. He wasn't very happy that the business had let him take on extra work when it suited them but didn't want to acknowledge it when there was a chance to think about his promotion. More importantly to Bob though, he was mourning the loss of those extra responsibilities that had become some the things he was enjoying most. Shortly after the new manager joined, Bob left the business and they felt the impact on technical knowledge, delivery speed and, just as importantly, on morale. How else could this situation (and unfortunately many variations on this, for many others) have been handled?
 
 #### 📈 Invest in your People
 
@@ -107,6 +126,12 @@ Progression success is not guaranteed. The move can lead to unexpected outcomes 
 - the role isn't enjoyable for them, and they want a way back
 
 As awkward as it can be to make another change, it will only be worse to leave it for longer. You don't always need to return people to their previous roles. Often there's an alternate role that still gives them the progression they sought. Promptly mitigate the impact of a promotion that doesn't work out. Correct the issue as soon as possible and support everyone involved.
+
+#### ❓ Back to Bob - Potential Outcomes
+
+Now we have thought about the 
+
+
 
 #### 🔬 Case Studies
 
