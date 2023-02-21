@@ -3,7 +3,7 @@ date: 2023-02-21 09:00:00
 layout: post
 title: Hire Internally First and Support Future Technical Leaders
 subtitle: Develop existing engineering talent
-description: By promoting from within, engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development—an action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's the right time.
+description: Retention of software engineers remains a priority for many businesses, as it's hard to find talented people and it can take a long time to train up someone new. Organisations should align with their employees on what might tempt them to stay but often progression opportunities are a key battleground. By promoting from within, software engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development—an action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's the right time. I'll walk through some of the things you should think about as an employer to decide if it's the correct strategy for you.
 image: https://res.cloudinary.com/martinmayer-tech/image/upload/v1676756442/eK-gu7-xHs8yFd.jpg
 optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_380/v1676756442/eK-gu7-xHs8yFd.jpg
 category: people
@@ -14,7 +14,7 @@ tags:
 author: martinmayer
 paginate: true
 ---
-By promoting from within, engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development—an action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's the right time.
+Retention of software engineers remains a priority for many businesses, as it's hard to find talented people and it can take a long time to train up someone new. Organisations should align with their employees on what might tempt them to stay but often progression opportunities are a key battleground. By promoting from within, software engineering departments can send a positive message to employees. It proves that the organisation values and invests in its people's professional development—an action of growth, ushering in a more motivated workforce. I propose a strategy prioritising internal opportunities. That's not to discount the benefit of bringing in new team members when it's the right time. I'll walk through some of the things you should think about as an employer to decide if it's the correct strategy for you.
 
 #### 📈 Invest in your People
 
@@ -36,7 +36,7 @@ Having review points throughout the year will help you avoid a big-bang annual r
 
 For a senior engineering position, you may favour external candidates to fill the position. You might value a fresh perspective, or perhaps the role has risk attached. Yet, promoting from within fosters loyalty and motivation among employees. If you open the role to internal candidates, it's crucial to conduct the hiring process effectively. Managers should contact employees who have expressed an interest in the position. Have open and honest conversations. Provide feedback on the skills and behaviours required. Offer support to help them develop those skills. Clearly articulate the competencies and behaviours that the candidate must possess now. What can be learned along the way? Ensure that employees understand what you expect of them. Then can collaborate on understanding the required competencies.
 
-Clarity is key. Establish clear criteria and guidelines for selecting candidates. The selection process should prioritise internal candidates. Give them a fair and equitable chance to apply. In cases where it is necessary to hire external candidates, you can think about improving opportunities. The role should include developing talented individuals as potential successors. You'll likely expect this new person to support the progression of your internal team. Make sure that *"coaching and mentoring future leaders"* is on the job description.
+Clarity is key. Establish clear criteria and guidelines for selecting candidates. The selection process should prioritise internal candidates. Give them a equitable and impartial opportunity to apply. In cases where it is necessary to hire external candidates, you can think about improving opportunities. The role should include developing talented individuals as potential successors. You'll likely expect this new person to support the progression of your internal team. Make sure that *"coaching and mentoring future leaders"* is on the job description.
 
 #### 💸 Salary Expectations
 
@@ -58,6 +58,16 @@ For internal applicants:
 - What opportunities do they have to learn missing skills or gain valuable experience?
 - Can you articulate whether they were considered unready for the position?
 - If they were ready, was there a more suitable candidate?
+
+#### 👩‍🎓 Enabling People Outside of their Current Roles
+
+There are many things that can be done to support people gaining work experience and learning opportunities on something other than their current role. Many of these will need buy-in from other departments but small experiments can be undertaken by Engineering without significant impact. Here are a few options to consider:
+
+- Allow engineers to shadow people in other roles - in some cases this will put people off a role rather than encourage them but this is useful information towards their career development and helps them find their pathway
+- Aim for dedicated Learning and Development time each week so that people have an uninterupted opportunity to sharpen their skills
+- Make people development a core responsibility of line managers so that the current role doesn't get in the way of opportunity - it can be easy for managers to prioritise current requirements and other operational concerns over someone's career journey
+- Set up one to one mentoring so people can network with someone who's further along the pathway - reverse mentoring can also be useful (for example, a senior manager wants to learn how some of the services work from an engineer) as both parties gain from the interaction, the engineer getting to work with someone who can later guide them in their role
+- Set up a peer mentoring scheme for engineers to support each other in their careers and learn essential skills at the same time
 
 #### ❗ Caution around Diversity, Equity and Inclusion
 
@@ -103,5 +113,3 @@ A lot is changing at the moment in the world of tech. Recent job losses at compa
 #### 💡 Summary
 
 In conclusion, promoting internal candidates is a great way to encourage future leaders. By investing in the development of employees, you can build a motivated workforce. Establishing clear criteria and guidelines for selecting candidates is essential. By offering opportunities for professional advancement, you'll create an open, productive work environment. As noted, it requires care to support diversity, equity, and inclusion efforts. For engineering leadership positions, it's critical to assess both technical and interpersonal capabilities. Offering a clear progression framework can ensure a smooth transition into new roles. Promoting from within can help create a strong and cohesive team. That, in turn, will increase employee motivation and retention, leading to organisational success.
-
----
