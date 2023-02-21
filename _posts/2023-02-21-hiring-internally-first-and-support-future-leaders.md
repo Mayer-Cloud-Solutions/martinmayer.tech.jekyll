@@ -73,7 +73,7 @@ There are many things that can be done to support people gaining work experience
 - **One to One Mentoring** - Set up one to one mentoring so people can network with someone who's further along the pathway - reverse mentoring can also be useful (for example, a senior manager wants to learn how some of the services work from an engineer) as both parties gain from the interaction, the engineer getting to work with someone who can later guide them in their role
 - **Peer Mentoring** - Set up a peer mentoring scheme for engineers to support each other in their careers and learn essential skills at the same time
 
-#### ❗ Caution around Diversity, Equity and Inclusion
+#### ⚠️ Caution around Diversity, Equity and Inclusion
 
 Hiring internally first can be a great way to ensure current employees get the opportunities they deserve. However, it's not a panacea for perfect progression. Promoting internal candidates without considering external people can be problematic. It can harm diversity, equity, and inclusion (DEI) efforts, especially if you have existing challenges. To avoid this, you should create a diverse and inclusive work environment. Put in place strategies to attract and retain diverse talents. Consider inclusive job descriptions, unconscious bias training, and diversity-focused employee resource groups. Additionally, organisations should examine their hiring practices. Check they are not biased towards promoting certain groups over others. Have clear and objective criteria for promotions. Ongoing process assessments audit that internal opportunities do not harm DEI efforts. 
 
