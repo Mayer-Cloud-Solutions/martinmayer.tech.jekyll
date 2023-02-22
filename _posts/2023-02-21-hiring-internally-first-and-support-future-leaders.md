@@ -22,6 +22,8 @@ Retention of software engineers remains a priority for many businesses, as it's 
     <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_700/v1677029072/blog-posts/_progression/_internal_hiring_story_of_bob/why_do_software_engineers_leave_jbvsnw.png" alt="Donut chart showing the reasons people leave their job - issues with Career Advancement being the highest reason at 31.5%" />
 </p>
 
+[More software engineers are leaving? Here’s Why and How to prevent that from happening to your team](https://www.linkedin.com/pulse/more-software-engineers-leaving-heres-why-how-prevent-anne-ng/?trk=pulse-article_more-articles_related-content-card)
+
 #### 😧 The Challenge: "Bob Didn't Get the Job!"
 
 Bob was Senior Engineer of a small engineering team with 3 other engineers in a relatively new business - perhaps you would call it a "startup". As a talented engineer, who was passionate about supporting his team mates, he had been all too happy to take on more responsibility when someone needed to step up. He was 1 of 2 engineers driving innovation on the team and elsewhere he was point person for the CTO and any non-technical stakeholders who needed any form of technical support. Other engineers looked to him for direction though he was also inclined to teach them (rather than do the work for them) and was passionate about sharing knowledge.
