@@ -24,13 +24,13 @@ Bob was Senior Engineer of a small engineering team with 3 other engineers in a 
     <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_450/q_60/v1677023349/blog-posts/_progression/_internal_hiring_story_of_bob/1_bob_was_a_force_for_good_on_the_engineering_team_fnu3fk.jpg" alt="Bob was a force for good on the engineering team - helping the tech and the culture" />
 </p>
 
-Eventually, the time came to grow the business again. The CTO decided they needed an "Engineering Manager" to line manage the engineers and focus them on operations towards the strategy set out to secure the next round of funding. The role was published for external applicants. Bob applied but was told he wasn't considered a candidate due to "lack of experience" - that was the extent of the feedback. Recruitment continued and eventually they made an offer to an experienced engineering leader who joined the business.
+Eventually, the time came to grow the business again. The CTO decided they needed an "Engineering Manager" to line manage the engineers and focus them on operations towards the strategy set out: securing the next round of funding. The role was published for external applicants. Bob applied but was told he wasn't considered a candidate due to "lack of experience" - that was the extent of the feedback. Recruitment continued and eventually they made an offer to an experienced engineering leader who joined the business.
 
 <p align="center">
     <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_450/q_60/v1677023353/blog-posts/_progression/_internal_hiring_story_of_bob/2_bob_heard_about_the_new_role_u20jo5.jpg" alt="Bob heard about the new role - an 'Engineering Manager'" />
 </p>
 
-The new manager was really talented and spent a lot of time listening to the engineers to understand what they needed. Having been overlooked for the role, he was now losing the growth opportunities he had thrived on previously. The manager was happy for Bob to keep learning but the business didn't need him to pick up the extra tasks now. They needed him back as senior engineer and he was not sure he wanted that. Bob found it hard to stay motivated and positive.
+The new manager was really talented and spent a lot of time listening to the engineers to understand what they needed. Having been overlooked for the role, Bob was now losing the growth opportunities he had thrived on previously. The manager was happy for Bob to keep learning but the business didn't need him to pick up the extra tasks now that they had a new leader. They needed Bob back as senior engineer and he was not sure he wanted that. Bob found it hard to stay motivated and positive.
 
 <p align="center">
     <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_450/q_60/v1677023353/blog-posts/_progression/_internal_hiring_story_of_bob/3_the_new_manager_was_a_great_person_but_was_understandably_taking_over_hyuwpb.jpg" alt="The new manager was a great person but was understandably taking over - Bob found it hard to stay motivated" />
