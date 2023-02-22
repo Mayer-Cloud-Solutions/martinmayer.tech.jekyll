@@ -101,19 +101,21 @@ There are many things that can be done to support people gaining work experience
 - **One to One Mentoring** - Set up one to one mentoring so people can network with someone who's further along the pathway - reverse mentoring can also be useful (for example, a senior manager wants to learn how some of the services work from an engineer) as both parties gain from the interaction, the engineer getting to work with someone who can later guide them in their role
 - **Peer Mentoring** - Set up a peer mentoring scheme for engineers to support each other in their careers and learn essential skills at the same time
 
-#### ⚠️ Caution around Diversity, Equity and Inclusion
+#### ⚠️ Use Caution around Diversity, Equity and Inclusion
 
 Hiring internally first can be a great way to ensure current employees get the opportunities they deserve. However, it's not a panacea for perfect progression. Promoting internal candidates without considering external people can be problematic. It can harm diversity, equity, and inclusion (DEI) efforts, especially if you have existing challenges. To avoid this, you should create a diverse and inclusive work environment. Put in place strategies to attract and retain diverse talents. Consider inclusive job descriptions, unconscious bias training, and diversity-focused employee resource groups. Additionally, organisations should examine their hiring practices. Check they are not biased towards promoting certain groups over others. Have clear and objective criteria for promotions. Ongoing process assessments audit that internal opportunities do not harm DEI efforts. 
 
-#### ❤️ Credible and Empathetic Leaders
+#### ❤️ Encourage Credible and Empathetic Leaders, Leading by Example
 
 Regarding engineering leadership positions, favouring candidates with a software engineering background is precious. Their technical skills and experience will enable them to make better decisions for their team. It also helps them appear credible and quickly build reputation and trust. Experience in the engineer role will also help them empathise with the people they will lead. When you're impacting others with your decisions, you must understand them.
 
 Only certain people want or have the skills to be a manager. It's unprofessional and unkind to place someone unsuitable. You need people with high emotional intelligence. Also, they need the willingness to balance the needs of their reports and the business when making decisions. It's not the right move for everyone; even then, the timing has to be suitable for that person.
 
-Leadership roles are not all equal and need distinct skill sets. Equipping a technical (individual contributor) track and a manager track will give you more options. It allows people to lead differently. For example, someone might be uncomfortable with the people development aspects. There is often crossover but you can align roles broadly to one side or the other in many cases. **Engineering Manager** and **Head/Director of Engineering** on one side. **Staff Engineer** and **Solutions Architect** on the other. Supporting different pathways allows people to feel more comfortable as they move into leadership roles.
+#### 🦸‍♀️ Where Possible Enable Different Types of Progression 
 
-The image below, shows an example map of the progression tracks within a technical department. Your organisation might be very different: having different titles, a flatter structure or including other tracks to support data analysis, machine learning, software infrastructure or site relability. None the less, a map like this can demonstrate the opportunities for engineers and other technicians within the business and make progression more open. You might choose to draw lines between roles to show pathways but that can restrict conversation if you're not careful. Decide if progression is a ladder or a river. Is management a dead end for your career or is it a pit stop along a weaving pathway? I favour the latter concept which can feel more flexible when considering your career.
+Leadership roles are not all equal and need distinct skill sets. Equipping a technical (individual contributor) track and a manager track will give you more options to progress someone who wants to move into leadership. It allows people to lead differently. For example, someone might be uncomfortable with the people development aspects. There is often crossover but you can align roles broadly to one side or the other in many cases. **Engineering Manager** and **Head/Director of Engineering** on one side. **Staff Engineer** and **Solutions Architect** on the other. Supporting different pathways allows people to feel more comfortable as they move into leadership roles.
+
+The image below, shows an example map of the progression tracks within a technical department. Your organisation might be very different: having different titles, a flatter structure or including other tracks to support data analysis, machine learning, software infrastructure or site relability (providing more options of course 😊). None the less, a map like this can demonstrate the opportunities for engineers and other technicians within the business and make progression more open and accessible. You might choose to draw lines between roles to show pathways but that can restrict conversation if you're not careful. Decide if progression is a ladder or a river. Is management a dead end for your career or is it a pit stop along a weaving pathway? I favour the latter concept which can feel more flexible when considering your career.
 
 <p align="center">
     <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_850/q_70/v1677009361/blog-posts/_progression/ExampleTechnicalDepartmentProgressionTracks_kbuaed.jpg" alt="Example Technical Department Progression Tracks" />
@@ -136,11 +138,15 @@ Progression success is not guaranteed. The move can lead to unexpected outcomes 
 
 As awkward as it can be to make another change, it will only be worse to leave it for longer. You don't always need to return people to their previous roles. Often there's an alternate role that still gives them the progression they sought. Promptly mitigate the impact of a promotion that doesn't work out. Correct the issue as soon as possible and support everyone involved.
 
-#### ❓ Back to Bob - Potential Outcomes
+#### ❓ Back to Bob - Potential Outcomes, Putting it All Together
 
-Now we have thought about the 
+Now we have thought about all these things, let us replay how the CTO and hiring managers could have handled things differently.
 
 
+
+<p align="center">
+    <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_450/q_60/v1677023091/blog-posts/_progression/_internal_hiring_story_of_bob/5_happy_bob_in_his_new_role_myuvba.jpg" alt="Happy Bob in his new role - let us look at the ways we might be able to help him" />
+</p>
 
 #### 🔬 Case Studies
 
