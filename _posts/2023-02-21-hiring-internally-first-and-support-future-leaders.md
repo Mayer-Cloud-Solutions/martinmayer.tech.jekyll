@@ -28,9 +28,12 @@ Retention of software engineers remains a priority for many businesses, as it's 
 
 Bob was Senior Engineer of a small engineering team with 3 other engineers in a relatively new business - perhaps you would call it a "startup". As a talented engineer, who was passionate about supporting his team mates, he had been all too happy to take on more responsibility when someone needed to step up. He was 1 of 2 engineers driving innovation on the team and elsewhere he was point person for the CTO and any non-technical stakeholders who needed any form of technical support. Other engineers looked to him for direction though he was also inclined to teach them (rather than do the work for them) and was passionate about sharing knowledge.
 
-<p align="center">
-    <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_450/q_60/v1677023349/blog-posts/_progression/_internal_hiring_story_of_bob/1_bob_was_a_force_for_good_on_the_engineering_team_fnu3fk.jpg" alt="Bob was a force for good on the engineering team - helping the tech and the culture" />
-</p>
+<div class="item" align="center">
+   <div class="polaroid">
+     <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_450/q_60/v1677023349/blog-posts/_progression/_internal_hiring_story_of_bob/1_bob_was_a_force_for_good_on_the_engineering_team_fnu3fk.jpg" alt="Bob was a force for good on the engineering team - helping the tech and the culture" />
+     <div class="caption"></div>
+   </div>
+ </div>
 
 Eventually, the time came to grow the business again. The CTO decided they needed an "Engineering Manager" to line manage the engineers and focus them on operations towards the strategy set out: securing the next round of funding. The role was published for external applicants. Bob applied but was told he wasn't considered a candidate due to "lack of experience" - that was the extent of the feedback. Recruitment continued and eventually they made an offer to an experienced engineering leader who joined the business.
 
