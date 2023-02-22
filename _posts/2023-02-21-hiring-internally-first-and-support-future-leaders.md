@@ -21,19 +21,28 @@ Retention of software engineers remains a priority for many businesses, as it's 
 Bob was Senior Engineer of a small engineering team with 3 other engineers in a relatively new business - perhaps you would call it a "startup". As a talented engineer, who was passionate about supporting his team mates, he had been all too happy to take on more responsibility when someone needed to step up. He was 1 of 2 engineers driving innovation on the team and elsewhere he was point person for the CTO and any non-technical stakeholders who needed any form of technical support. Other engineers looked to him for direction though he was also inclined to teach them (rather than do the work for them) and was passionate about sharing knowledge.
 
 <p align="center">
-
-    <img src="/upload/c_scale,w_850/.jpg" alt="Bob was a force for good on the engineering team - helping the tech and the culture" />
-</p>
-
-Eventually, the time came to grow the business again. The CTO decided they needed an "Engineering Manager" to line manage the engineers and focus them on operations towards the strategy set out to secure the next round of funding. The role was uploaded for external applicants. Bob applied but was told he wasn't considered a candidate. Recruitment continued and eventually they made an offer to an experienced engineer manager who came into the business.
-
-The new manager was really talented and spent a lot of time listening to the engineers to understand what they needed. Having been overlooked for the role, he was now losing the growth opportunities he had thrived on previously. The manager was happy for Bob to keep learning but the business didn't need him to pick up the extra tasks now. They needed him back as senior engineer and he was not sure he wanted that.
-
-<p align="center">
     <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_450/q_60/v1677023349/blog-posts/_progression/_internal_hiring_story_of_bob/1_bob_was_a_force_for_good_on_the_engineering_team_fnu3fk.jpg" alt="Bob was a force for good on the engineering team - helping the tech and the culture" />
 </p>
 
-Bob felt frustrated throughout this transition. He wasn't very happy that the business had let him take on extra work when it suited them but didn't want to acknowledge it when there was a chance to think about his promotion. More importantly to Bob though, he was mourning the loss of those extra responsibilities that had become some the things he was enjoying most. Shortly after the new manager joined, Bob left the business and they felt the impact on technical knowledge, delivery speed and, just as importantly, on morale. How else could this situation (and unfortunately many variations on this, for many others) have been handled?
+Eventually, the time came to grow the business again. The CTO decided they needed an "Engineering Manager" to line manage the engineers and focus them on operations towards the strategy set out to secure the next round of funding. The role was published for external applicants. Bob applied but was told he wasn't considered a candidate due to "lack of experience" - that was the extent of the feedback. Recruitment continued and eventually they made an offer to an experienced engineering leader who joined the business.
+
+<p align="center">
+    <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_450/q_60/v1677023353/blog-posts/_progression/_internal_hiring_story_of_bob/2_bob_heard_about_the_new_role_u20jo5.jpg" alt="Bob heard about the new role - an 'Engineering Manager'" />
+</p>
+
+The new manager was really talented and spent a lot of time listening to the engineers to understand what they needed. Having been overlooked for the role, he was now losing the growth opportunities he had thrived on previously. The manager was happy for Bob to keep learning but the business didn't need him to pick up the extra tasks now. They needed him back as senior engineer and he was not sure he wanted that. Bob found it hard to stay motivated and positive.
+
+<p align="center">
+    <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_450/q_60/v1677023353/blog-posts/_progression/_internal_hiring_story_of_bob/3_the_new_manager_was_a_great_person_but_was_understandably_taking_over_hyuwpb.jpg" alt="The new manager was a great person but was understandably taking over - Bob found it hard to stay motivated" />
+</p>
+
+Bob felt frustrated throughout this transition. He wasn't very happy that the business had let him take on extra work when it suited them but didn't want to acknowledge it when there was a chance to think about his promotion. More importantly to Bob though, he was mourning the loss of those extra responsibilities that had become some the things he was enjoying most. Shortly after the new manager joined, Bob started looking for other roles. It wasn't long before Bob left the business and they felt the impact on technical knowledge, delivery speed and, just as importantly, on morale. A couple of his colleagues left a few months later.
+
+How else could this situation have been handled? Unfortunately, this sort of predicament is all too common and can leave a big impact - especially within a smaller engineering department.
+
+<p align="center">
+    <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_450/q_60/v1677023349/blog-posts/_progression/_internal_hiring_story_of_bob/4_bob_was_frustrated_after_the_hiring_decisions_tmpqvv.jpg" alt="Bob was frustrated after the hiring decisions - he started to consider if he should look for another job elsewhere" />
+</p>
 
 #### 📈 Invest in your People
 
