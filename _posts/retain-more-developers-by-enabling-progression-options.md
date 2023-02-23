@@ -59,7 +59,8 @@ How else could this situation have been handled? Unfortunately, this sort of pre
 
 #### 📈 Invest in your People
 
-Enabling the progression of your engineering team is essential to retaining great people. Promoting frequently and hiring internally first is a strategy you should consider, it allows you to:
+Enabling the progression of your engineering team is essential to retaining great people. It allows you to:
+  - give people the opportunity to work towards the role and compensation they are seeking
   - identify and nurture your future leaders
   - develop people who are passionate about your products 
   - create solid and cohesive teams 
@@ -67,7 +68,19 @@ Enabling the progression of your engineering team is essential to retaining grea
 
 #### 🔍 Identify Future Leaders
 
-Identifying and nurturing future leaders is critical to building a successful organisation. Regular assessments of employees and discussions about their career paths help. Through these processes, identify those with the potential to become future leaders.
+You don't need everyone in your organisation to lead from the front, but that leadership is necessary to drive toward your goals. Through your processes, identify those with the desire and potential to become future leaders. It doesn't have to be their next move and leadership skills can benefit people at all levels of progression.
+
+
+
+Assessing progression
+
+Regular and constructive - encouragement over criticism. Examine your process to calibrate between teams and managers. Attempt to remove bias (conscious and unconscious) wherever possible. If you'd like to learn more about bias I highly recommend [this article by X]().
+
+#### Provide Training on Essential as well as Technical Skills
+
+#### Opportunities to Gain Experience Outside of a Role
+
+Regular assessments of employees and discussions about their career paths help. 
 
 Once you've identified potential, investing in their growth and development is essential. The investment includes providing training, mentorship, and coaching opportunities. Career development plans will guide them towards their goals. Offering opportunities for professional development and advancement helps employees feel valued and noticed. In turn, this leads to better retention rates and increased performance.
 
