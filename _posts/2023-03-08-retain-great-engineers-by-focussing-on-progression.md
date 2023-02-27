@@ -52,7 +52,7 @@ To address the three main reasons software engineers leave a business – career
 - **Collaboration and Cross-Functional Teams**: Encourage collaboration and cross-functional teams to gain exposure to different areas of the business
 - **Listen to your engineers:** Engage directly with individual engineers to ensure they enjoy their work, feel supported by their team and share opinions on general ways of working and engineering principles
 
-Furthermore, consider these additional areas outside for better employee engagement in general:
+Furthermore, consider these additional areas for better employee engagement in general:
 
 - **Diversity and Inclusion**: Ensure teams are diverse, including women and underrepresented minorities
 - **Flexible Work Arrangements**: Offer remote work and flexible schedules
