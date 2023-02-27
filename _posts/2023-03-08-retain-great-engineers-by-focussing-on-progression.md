@@ -17,7 +17,7 @@ The use of software has become ubiquitous in modern business, and software engin
 
 #### 🏃‍♀ Why do engineers leave a business?
 
-You are likely curious about why software engineers are leaving businesses. This article "[More software engineers are going? Here’s Why and How to prevent that from happening to your team](https://inspius.com/insights/software-engineers-quit-how-to-prevent-that/)" references data from **Payscale’s Compensation Best Practices Report,** which surveyed engineers on why they were leaving organisations. The graph below shows the results of that survey question. The top reasons were **Career Advancement Issues** (31.5%), **Pay and Benefits** (22.4%), and **Lack of Fit** (20.2%).
+You are likely curious about why software engineers are leaving businesses. This article "[More software engineers are going? Here’s Why and How to prevent that from happening to your team](https://inspius.com/insights/software-engineers-quit-how-to-prevent-that/)" references data from **Payscale’s Compensation Best Practices Report,** which surveyed engineers on why they were leaving organisations. The doughnut chart below shows the results of that survey question. The top reasons were **Career Advancement Issues** (31.5%), **Pay and Benefits** (22.4%), and **Lack of Fit** (20.2%).
 
 <p align="center">
     <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/v1677029072/blog-posts/_progression/_retain_more_engineers/why_do_software_engineers_leave_jbvsnw.png" alt="Donut chart showing the reasons people leave their job - issues with Career Advancement being the highest reason at 31.5%" />
