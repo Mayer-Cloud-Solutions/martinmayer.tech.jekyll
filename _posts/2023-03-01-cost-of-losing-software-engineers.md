@@ -1,5 +1,5 @@
 ---
-date: 2022-03-08 11:00:00
+date: 2022-03-01 11:00:00
 layout: post
 title: "The Cost of Losing Software Engineers: Why Businesses Should Care and What to Do About It"
 subtitle: Don't lose engineering talent
