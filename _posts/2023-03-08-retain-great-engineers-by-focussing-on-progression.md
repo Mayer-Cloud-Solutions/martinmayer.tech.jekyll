@@ -33,7 +33,7 @@ Losing an engineer can have a significant impact on a business, both in the shor
 
 **Morale:** When an engineer leaves a business, it can damage morale and motivation among the remaining team members. Losing a valued team member can create uncertainty and anxiety, leading to decreased productivity and a decline in the quality of work.
 
-**Disruption:** Additionally, when an engineer leaves, it can impact the team's ability to deliver on projects, which can damage the company's reputation and affect future business opportunities.
+**Disruption:** Additionally, when an engineer leaves, it can impact the team's ability to deliver requirements, which can damage the company's reputation and affect future business opportunities.
 
 **Reputational damage:** When an engineer leaves a business, it can damage the company's reputation in several ways - mainly when the work culture is less than ideal. Firstly, former employees may leave negative reviews on sites like Glassdoor, which can impact the company's ability to attract top talent in the future. These negative reviews may deter potential customers or partners from doing business with the company. Additionally, when an engineer leaves due to company or team culture issues, they may speak negatively about their experience to their network, which could include current or potential clients or partners. This negative word-of-mouth can be damaging to the company's reputation, and it may take time and effort to repair any damage that has been done.
 
