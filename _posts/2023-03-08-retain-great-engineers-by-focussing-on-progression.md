@@ -39,7 +39,7 @@ Losing an engineer can have a significant impact on a business, both in the shor
 
 **Costs of hiring and training new engineers:** When an engineer leaves, high costs are associated with recruiting and training a replacement. Recruiting and interviewing candidates can be time-consuming and expensive, especially when considering the potential costs of missed opportunities and lost productivity. The work is complex and requires a significant understanding of technical and business contexts. Once a new engineer is hired, it can take several months for them to become fully productive. During this time, they may require additional support and training, further impacting the team's productivity. This cost only increases if the new engineer is not onboarded correctly or if they do not perform adequately.
 
-**Missed potential:** If they're leaving due to career advancement issues, you're missing out on an individual's potential along with their current skills: If an engineer goes due to a lack of career advancement opportunities, the business misses out on an individual's potential for growth and development, as well as their current skills and experience. These individuals may go on to work for competitors or start their businesses, further impacting the company's ability to compete in the market.
+**Missed potential:** If they're leaving due to career advancement issues, you're missing out on an individual's potential along with their current skills. It's hard to quantity this impact but you will likely need to recruit your senior team members externally if you're losing people before they can progress.
 
 #### 💡 How can an organisation retain more software engineers?
 
