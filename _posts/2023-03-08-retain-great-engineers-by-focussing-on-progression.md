@@ -13,6 +13,7 @@ tags:
 author: martinmayer
 paginate: true
 ---
+The use of software has become ubiquitous in modern business, and software engineers play a critical role in developing and maintaining these systems. However, retaining software engineers can be challenging for many organisations, with increasing numbers of engineers leaving their positions for various reasons. This article explores the top reasons why software engineers leave businesses and the negative impacts they can have on a company. It also provides insights into why businesses should care about retaining their software engineers and offers ten strategies to help organisations improve retention rates.
 
 #### 🏃‍♀ Why do engineers leave a business?
 
