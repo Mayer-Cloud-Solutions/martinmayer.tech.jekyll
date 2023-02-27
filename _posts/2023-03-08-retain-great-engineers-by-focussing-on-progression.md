@@ -43,7 +43,7 @@ Losing an engineer can have a significant impact on a business, both in the shor
 
 #### 💡 How can an organisation retain more software engineers?
 
-To address the three main reasons software engineers leave a business – career advancement issues, pay and benefits, and lack of fit – businesses can make improvements to retain their top talent. Here are ten improvements areas organisations can target:
+To address the three main reasons software engineers leave a business – career advancement issues, pay and benefits, and lack of fit – businesses can make improvements to retain their top talent. Here are some improvement areas organisations can target:
 
 - **Career Paths and Advancement Opportunities**: Provide clear career paths and advancement opportunities for software engineers
 - **Competitive Compensation**: Offer competitive salaries and benefits packages - consider bonuses and incentives but above all, ensure pay is fair and, wherever possible, transparent
