@@ -4,8 +4,8 @@ layout: post
 title: Retain Great Engineers by Focussing on Progression
 subtitle: Don't lose engineering talent
 description: The use of software has become ubiquitous in modern business, and software engineers play a critical role in developing and maintaining these systems. However, retaining software engineers can be challenging for many organisations, with increasing numbers of engineers leaving their positions for various reasons. This article explores the top reasons why software engineers leave businesses and the negative impacts they can have on a company. It also provides insights into why businesses should care about retaining their software engineers and offers ten strategies to help organisations improve retention rates.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: https://res.cloudinary.com/martinmayer-tech/image/upload/v1677460997/blog-posts/main/CQdewvOP3venyr256ynINCW0iwcqX_l6clzr.jpg
+optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_380/v1677460997/blog-posts/main/CQdewvOP3venyr256ynINCW0iwcqX_l6clzr.jpg
 category: skills-development
 tags:
   - progression
