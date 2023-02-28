@@ -29,7 +29,7 @@ You are likely curious about why software engineers are leaving businesses. This
 
 #### 🤔 Why should you care about retention?
 
-Losing an engineer can have a significant impact on a business, both in the short and long term. Here are a few reasons why you should care about retaining your software engineers :
+Losing an engineer can have a significant impact on a business, both in the short and long term. Here are a few reasons why you should care about retaining your software engineers:
 
 **Morale:** When an engineer leaves a business, it can damage morale and motivation among the remaining team members. When a valued team member leaves the team can face uncertainty and anxiety, leading to decreased productivity and a decline in the quality of work.
 
