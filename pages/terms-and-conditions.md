@@ -27,10 +27,10 @@ description: Terms and conditions of using the martinmayer.tech website
 <p>Unless otherwise stated, martinmayer.tech and/or its licensors own the intellectual property rights for all material on Martin Mayer | Thoughts on technical leadership. All intellectual property rights are reserved. You may access this from Martin Mayer | Thoughts on technical leadership for your own personal use subjected to restrictions set in these terms and conditions.</p>
 
 You must not:
-- Republish material from Martin Mayer | Thoughts on technical leadership
-- Sell, rent or sub-license material from Martin Mayer | Thoughts on technical leadership
-- Reproduce, duplicate or copy material from Martin Mayer | Thoughts on technical leadership
-- Redistribute content from Martin Mayer | Thoughts on technical leadership
+- Republish material from Martin Mayer &#124; Thoughts on technical leadership
+- Sell, rent or sub-license material from Martin Mayer &#124; Thoughts on technical leadership
+- Reproduce, duplicate or copy material from Martin Mayer &#124; Thoughts on technical leadership
+- Redistribute content from Martin Mayer &#124; Thoughts on technical leadership
 
 This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the Free Terms and Conditions Generator.
 
@@ -105,7 +105,7 @@ THE SOFTWARE AND WEBSITE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KI
 
 <h3><strong>Your Privacy</strong></h3>
 
-<p>Please read Privacy Policy</p>
+<p>Please read [Privacy Policy](https://www.martinmayer.tech/privacy-policy)</p>
 
 <h3><strong>Reservation of Rights</strong></h3>
 
