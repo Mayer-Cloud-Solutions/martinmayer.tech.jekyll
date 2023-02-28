@@ -18,8 +18,16 @@ menu:
     url: /portfolio
   - title: Contact
     url: /contact
+  - title: "-"
+    url: /#
+  - title: "-"
+    url: /#
   - title: Terms and Conditions
     url: /terms-and-conditions
+  - title: Privacy Policy
+    url: /privacy-policy    
+  - title: Comment Policy
+    url: /comment-policy
 #  - title: Feed
 #    url: /feed.xml
 email: martin@martinmayer.tech
@@ -49,6 +57,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
+show_search: false
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
