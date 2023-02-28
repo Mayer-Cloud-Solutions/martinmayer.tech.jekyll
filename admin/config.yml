@@ -506,6 +506,10 @@ collections:
         name: "advanced"
         file: "src/yml/advanced.yml"
         fields:
+          - label: "Show Search"
+            name: "show_search"
+            widget: "boolean"
+            default: true
           - label: "Base URL"
             name: "baseurl"
             widget: "string"
