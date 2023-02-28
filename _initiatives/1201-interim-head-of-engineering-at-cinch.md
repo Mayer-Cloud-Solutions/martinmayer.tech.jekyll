@@ -1,5 +1,5 @@
 ---
-sorting: 01002
+sorting: 01201
 reference: cinch-interim-head-of-engineering
 title: Interim Head of Engineering at cinch Technology
 description:
