@@ -20,6 +20,10 @@ menu:
     url: /contact
   - title: Terms and Conditions
     url: /terms-and-conditions
+  - title: Privacy Policy
+    url: /privacy-policy    
+  - title: Comment Policy
+    url: /comment-policy
 #  - title: Feed
 #    url: /feed.xml
 email: martin@martinmayer.tech
