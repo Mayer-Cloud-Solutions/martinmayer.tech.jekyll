@@ -105,7 +105,7 @@ THE SOFTWARE AND WEBSITE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KI
 
 <h3><strong>Your Privacy</strong></h3>
 
-<p>Please read [Privacy Policy](https://www.martinmayer.tech/privacy-policy)</p>
+Please read [Privacy Policy](https://www.martinmayer.tech/privacy-policy)
 
 <h3><strong>Reservation of Rights</strong></h3>
 
