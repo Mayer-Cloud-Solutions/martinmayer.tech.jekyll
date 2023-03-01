@@ -18,6 +18,8 @@ In the fast-paced world of software engineering, it can be easy to prioritize co
 
 ### 🧠 What is Deep Thinking?
 
+Depth of thought a complex concept so for the purposes of this article we will focus on the 2 extremes: 'deep thinking' and 'shallow thinking'. There are many levels of cognitive processing between these two extremes, and that different types of thinking may be appropriate for different contexts and situations.
+
 Deep thinking involves a prolonged and uninterrupted focus on a problem or task, allowing for exploring multiple perspectives and considering potential solutions. This type of thinking is essential in software engineering, where complex projects require careful planning and consideration. Without deep thought, teams may make decisions based on incomplete information or cannot consider all possible solutions to a problem.
 
 To avoid shallow thinking and ensure the quality of their work, software engineering teams must find ways to balance synchronous communication with deep thought. Shallow thinking can occur when team members are constantly interrupted by meetings, instant messaging, and other synchronous communication channels. On the other hand, shallow thinking occurs when team members need to be more focused on synchronous communication, leading to less thoughtful decision-making and lower-quality work.
