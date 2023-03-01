@@ -50,12 +50,6 @@ Finally, leaders can implement dedicated "deep work" periods, during which team 
 
 For example, leaders may encourage team members to schedule "focus time" blocks on their calendars, during which they are expected to work without interruptions. By providing team members with dedicated time for deep thinking and knowledge work, leaders can enable their teams to produce higher-quality work and avoid the distractions that can come with synchronous communication.
 
-However, implementing deep work periods can be challenging, and there are several factors to consider when doing so. One significant challenge is ensuring that team members understand the purpose and expectations of these periods. Leaders must communicate clearly and regularly about the goals of deep work periods, including when they will occur, how long they will last, and what is expected of team members during this time.
-
-Another challenge is time management. During deep work periods, team members are expected to work independently without interruptions, so it's essential to encourage effective time management and discourage distractions, such as checking email or social media.
-
-Finally, it's important to be flexible and adjust deep work periods as needed to accommodate competing responsibilities or urgent deadlines. Leaders should also lead by example, disconnecting from synchronous communication channels during deep work periods to demonstrate the importance of these periods.
-
 🤔 Challenges of Implementing Asynchronous Communication for Deep Thinking
 
 While implementing asynchronous communication strategies can improve the quality and effectiveness of software engineering work, it is not without its challenges. Here are some of the challenges that software engineering leaders may face when implementing asynchronous communication strategies for deep thinking:
@@ -69,6 +63,8 @@ Accountability: When team members are working asynchronously, it can be challeng
 Time Management: Asynchronous communication can be time-consuming, particularly when team members are not available at the same time. It is essential to establish clear guidelines for response times and to ensure that team members are managing their time effectively to prevent delays.
 
 Inadequate Infrastructure: Asynchronous communication relies on effective technology and infrastructure. If the tools and systems used by the team are outdated or insufficient, it can impact the effectiveness of communication and the quality of work produced.
+
+Competing Priorities: Processes will need to accommodate competing responsibilities and urgent deadlines. Therefore, it's important to be flexible and adjust deep work periods to incorporate those needs. Leaders should also lead by example, disconnecting from synchronous communication channels during deep work periods to demonstrate the importance of these periods.
 
 🔎 Summary
 
