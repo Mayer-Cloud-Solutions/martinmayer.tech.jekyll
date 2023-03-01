@@ -88,5 +88,9 @@ Despite these challenges, software engineering leaders can implement various str
 
 ### 📚 References
 
-- ["Deep Work" by Cal Newport](https://www.goodreads.com/book/show/25744928-deep-work)
-- ["Remote: Office Not Required" by Jason Fried and David Heinemeier Hansson](https://www.goodreads.com/book/show/17316682-remote)
+- ["Deep Work: Rules for Focused Success in a Distracted World"](https://www.goodreads.com/book/show/25744928-deep-work) by Cal Newport
+- ["Remote: Office Not Required"](https://www.goodreads.com/book/show/17316682-remote) by Jason Fried and David Heinemeier Hansson
+- ["The Organized Mind: Thinking Straight in the Age of Information Overload"](https://www.goodreads.com/book/show/18693971-the-organized-mind) by Daniel J. Levitin
+- ["The Distracted Mind: Ancient Brains in a High-Tech World"](https://www.goodreads.com/book/show/28813387-the-distracted-mind) by Adam Gazzaley and Larry D. Rosen
+- ["Thinking, Fast and Slow"](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman
+- ["Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School"](https://www.goodreads.com/book/show/38530.Brain_Rules) by John Medina
