@@ -1,9 +1,9 @@
 ---
 sorting: 01203
-reference:sorted-solution-architect
+reference: sorted-solution-architect
 title: Solution Architect at Sorted
 description:
-business: cinch
+business: Sorted
 init_date: November, 2021
 featured: false
 image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_fill,h_400,w_760/v1656645218/2019-04-05_11.34.26_each3v.jpg
