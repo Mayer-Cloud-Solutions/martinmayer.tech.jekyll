@@ -1,9 +1,9 @@
 ---
 sorting: 01204
-reference:sorted-software-development-manager
+reference: sorted-software-development-manager
 title: Software Development Manager at Sorted
 description:
-business: sorted
+business: Sorted
 init_date: January, 2020
 featured: false
 image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_fill,h_400,w_760/v1656643822/2019-06-10_12.46.28_d6fha8.jpg
