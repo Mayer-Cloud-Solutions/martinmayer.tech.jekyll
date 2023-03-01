@@ -86,6 +86,10 @@ While implementing asynchronous communication strategies can improve the quality
 
 **Competing Priorities:** Processes will need to accommodate competing responsibilities and urgent deadlines. Therefore, it's paramount to be flexible and adjust deep work periods to incorporate those needs. Leaders should also lead by example, disconnecting from synchronous communication channels during deep work periods to demonstrate the importance of these periods.
 
+<p align="center">
+  <img width=100% src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/q_70/v1677648091/blog-posts/_async_comms/_importance_of_deep_thinking/v-y2ciZo4pJu-o8dyu_d8scxd.jpg" alt="phone reminder telling someone to 'do busy work now!'" />
+</p>
+
 ### 🔎 Summary
 
 In software engineering, deep thinking is essential for effective problem-solving and decision-making. Asynchronous communication allows for structured and organized communication that does not require immediate responses and can enable deep thought and uninterrupted knowledge work. However, constant interruptions and synchronous communication can lead to shallow thinking and poor-quality work.
