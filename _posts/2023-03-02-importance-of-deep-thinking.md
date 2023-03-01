@@ -25,7 +25,7 @@ Deep thinking involves a prolonged and uninterrupted focus on a problem or task,
 To avoid shallow thinking and ensure the quality of their work, software engineering teams must find ways to balance synchronous communication with deep thought. Shallow thinking can occur when team members are constantly interrupted by meetings, instant messaging, and other synchronous communication channels. On the other hand, shallow thinking occurs when team members need to be more focused on synchronous communication, leading to less thoughtful decision-making and lower-quality work.
 
 <p align="center">
-  <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/q_70/v1677646095/blog-posts/_async_comms/_importance_of_deep_thinking/n8aZCv-p1Kjdq-oLyis_rwb3yv.jpg" alt="person building a complex towering glass model of castle, carefully balancing the next piece, looking anxious due to interruptions" />
+  <img width=100% src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/q_70/v1677646095/blog-posts/_async_comms/_importance_of_deep_thinking/n8aZCv-p1Kjdq-oLyis_rwb3yv.jpg" alt="person building a complex towering glass model of castle, carefully balancing the next piece, looking anxious due to interruptions" />
 </p>
 
 ### 🧪 Why is Deep Thought Important?
@@ -67,7 +67,7 @@ Finally, leaders can implement dedicated "deep work" periods, during which team 
 For example, leaders may encourage team members to schedule "team focus" blocks on their calendars, during which they work without interruptions from outside their team or "personal focus time" when they might work individually. By providing team members with dedicated time for deep thinking and knowledge work, leaders can enable their teams to produce higher-quality work and avoid the distractions that can come with synchronous communication.
 
 <p align="center">
-  <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/q_70/v1677647051/blog-posts/_async_comms/_importance_of_deep_thinking/mO-chk3-pWiRg7-ZaN_alnuc6.jpg" alt="busy office environment with many distractions" />
+  <img width=100% src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/q_70/v1677647051/blog-posts/_async_comms/_importance_of_deep_thinking/mO-chk3-pWiRg7-ZaN_alnuc6.jpg" alt="busy office environment with many distractions" />
 </p>
 
 ### 🤔 Challenges of Implementing Asynchronous Communication for Deep Thinking
