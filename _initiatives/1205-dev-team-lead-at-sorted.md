@@ -1,9 +1,9 @@
 ---
 sorting: 01205
-reference:sorted-dev-team-lead
+reference: sorted-dev-team-lead
 title: Developer Team Lead at Sorted
 description:
-business: sorted
+business: Sorted
 init_date: January, 2019
 featured: false
 image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_fill,h_400,w_760/v1656637137/2020-03-07_11.45.51_iitmu5.jpg
