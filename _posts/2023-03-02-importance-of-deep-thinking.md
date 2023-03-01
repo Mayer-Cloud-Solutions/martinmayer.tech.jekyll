@@ -4,8 +4,8 @@ layout: post
 title: "The Importance of Deep Thinking in Software Engineering Teams"
 subtitle: Harness the Power of Async Comms
 description:
-image: https://res.cloudinary.com/martinmayer-tech/image/upload/v1677634985/blog-posts/main/bcUCAKxnq2bd81-2dbXuq_qggs6n.jpg
-optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_380/v1677634985/blog-posts/main/bcUCAKxnq2bd81-2dbXuq_qggs6n.jpg
+image: https://res.cloudinary.com/martinmayer-tech/image/upload/v1677636445/blog-posts/main/bcUCAKxnq2bd81-2dbXuq_i9iixm.jpg
+optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_380/v1677636445/blog-posts/main/bcUCAKxnq2bd81-2dbXuq_i9iixm.jpg
 category: skills-development
 tags:
   - deep thinking
