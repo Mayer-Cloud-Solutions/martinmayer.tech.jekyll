@@ -76,5 +76,5 @@ Despite these challenges, software engineering leaders can implement various str
 
 ### 📚 References
 
-["Deep Work" by Cal Newport](https://www.goodreads.com/book/show/25744928-deep-work)
-["Remote: Office Not Required" by Jason Fried and David Heinemeier Hansson](https://www.goodreads.com/book/show/17316682-remote)
+- ["Deep Work" by Cal Newport](https://www.goodreads.com/book/show/25744928-deep-work)
+- ["Remote: Office Not Required" by Jason Fried and David Heinemeier Hansson](https://www.goodreads.com/book/show/17316682-remote)
