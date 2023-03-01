@@ -22,6 +22,16 @@ Deep thinking involves a prolonged and uninterrupted focus on a problem or task,
 
 To avoid shallow thinking and ensure the quality of their work, software engineering teams must find ways to balance synchronous communication with deep thought. Shallow thinking can occur when team members are constantly interrupted by meetings, instant messaging, and other synchronous communication channels. On the other hand, shallow thinking occurs when team members need to be more focused on synchronous communication, leading to less thoughtful decision-making and lower-quality work.
 
+### 🧪 Why is Deep Thought Important?
+
+The neuroscience around depth of thought and interruptions is complex, but can be understood through the concept of cognitive load and attentional control.
+
+Cognitive load refers to the amount of mental effort required to complete a particular task. When we engage in deep, complex thinking, our cognitive load is high, and our attentional control is focused on the task at hand. Interruptions, such as a notification on our phone or a coworker asking a question, disrupt our attentional control and increase our cognitive load, making it more difficult to return to the previous level of depth of thought.
+
+Studies using functional magnetic resonance imaging (fMRI) have shown that when we are interrupted, the prefrontal cortex, which is responsible for executive functions like attentional control, becomes less active, leading to decreased performance on the task at hand. Furthermore, interruptions can also increase activity in the amygdala, which is associated with emotional processing, leading to increased stress and reduced cognitive functioning.
+
+In addition, interruptions can also disrupt our working memory, which is responsible for holding information temporarily while we use it to complete a task. When we are interrupted, the information in our working memory is displaced, and we have to use mental effort to retrieve it, further increasing our cognitive load and reducing our ability to engage in deep thought.
+
 ### 💬 What Is Asynchronous Communication?
 
 By providing a structured and organized way for team members to communicate asynchronously, leaders can enable their team members to work more efficiently and productively. Asynchronous communication refers to methods that do not require immediate responses, allowing team members to engage in deep thinking without constant interruptions. This includes channels such as email, project management tools, and collaborative documents.
