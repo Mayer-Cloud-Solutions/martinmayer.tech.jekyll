@@ -14,11 +14,11 @@ tags:
 author: martinmayer
 paginate: true
 ---
-In the fast-paced world of software engineering, it can be easy to prioritize constant communication and collaboration over deep thinking and uninterrupted knowledge work. However, deep thought is crucial to effective problem-solving and decision-making, particularly in complex software projects. I'll examine why deep thinking is necessary and how it can benefit software engineering teams.
+In the fast-paced world of software engineering, it can be easy to prioritize constant communication and collaboration over deep thinking and uninterrupted knowledge work. However, deep thought is crucial to effective problem-solving and decision-making, particularly in complex software projects. I will examine why deep thinking is necessary and how it can benefit software engineering teams.
 
 ### 🧠 What is Deep Thinking?
 
-Depth of thought a complex concept so for the purposes of this article we will focus on the 2 extremes: 'deep thinking' and 'shallow thinking'. There are many levels of cognitive processing between these two extremes, and that different types of thinking may be appropriate for different contexts and situations.
+Depth of thought is a complex concept so for the purposes of this article I will focus on the 2 extremes: 'deep thinking' and 'shallow thinking'. There are many levels of cognitive processing between these two extremes, and that different types of thinking may be appropriate for different contexts and situations.
 
 Deep thinking involves a prolonged and uninterrupted focus on a problem or task, allowing for exploring multiple perspectives and considering potential solutions. This type of thinking is essential in software engineering, where complex projects require careful planning and consideration. Without deep thought, teams may make decisions based on incomplete information or cannot consider all possible solutions to a problem.
 
@@ -103,6 +103,6 @@ Despite these challenges, software engineering leaders can implement various str
 - ["Deep Work: Rules for Focused Success in a Distracted World"](https://www.goodreads.com/book/show/25744928-deep-work) by Cal Newport
 - ["Remote: Office Not Required"](https://www.goodreads.com/book/show/17316682-remote) by Jason Fried and David Heinemeier Hansson
 - ["The Organized Mind: Thinking Straight in the Age of Information Overload"](https://www.goodreads.com/book/show/18693971-the-organized-mind) by Daniel J. Levitin
-- ["The Distracted Mind: Ancient Brains in a High-Tech World"](https://www.goodreads.com/book/show/28813387-the-distracted-mind) by Adam Gazzaley and Larry D. Rosen
+- ["The Distracted Mind: Ancient Brains in a High-Tech World"](https://www.goodreads.com/book/show/29889454-the-distracted-mind) by Adam Gazzaley and Larry D. Rosen
 - ["Thinking, Fast and Slow"](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman
-- ["Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School"](https://www.goodreads.com/book/show/38530.Brain_Rules) by John Medina
+- ["Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School"](https://www.goodreads.com/book/show/2251306.Brain_Rules) by John Medina
