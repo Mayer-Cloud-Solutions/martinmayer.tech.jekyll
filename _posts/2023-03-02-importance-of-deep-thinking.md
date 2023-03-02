@@ -3,7 +3,7 @@ date: 2022-03-02 11:00:00
 layout: post
 title: "The Importance of Deep Thinking in Software Engineering Teams"
 subtitle: Harness the Power of Async Comms
-description:
+description: In the fast-paced world of software engineering, it can be easy to prioritize constant communication and collaboration over deep thinking and uninterrupted knowledge work. However, deep thought is crucial to effective problem-solving and decision-making, particularly in complex software projects. I'll examine why deep thinking is necessary and how it can benefit software engineering teams.
 image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/v1677643358/blog-posts/main/iwc73dbv-ZIdbSA_q2t4xf.jpg
 optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_380/v1677643358/blog-posts/main/iwc73dbv-ZIdbSA_q2t4xf.jpg
 category: skills-development
@@ -14,7 +14,7 @@ tags:
 author: martinmayer
 paginate: true
 ---
-In the fast-paced world of software engineering, it can be easy to prioritize constant communication and collaboration over deep thinking and uninterrupted knowledge work. However, deep thought is crucial to effective problem-solving and decision-making, particularly in complex software projects. This section will discuss why deep thinking is necessary and how it can benefit software engineering teams.
+In the fast-paced world of software engineering, it can be easy to prioritize constant communication and collaboration over deep thinking and uninterrupted knowledge work. However, deep thought is crucial to effective problem-solving and decision-making, particularly in complex software projects. I'll examine why deep thinking is necessary and how it can benefit software engineering teams.
 
 ### 🧠 What is Deep Thinking?
 
