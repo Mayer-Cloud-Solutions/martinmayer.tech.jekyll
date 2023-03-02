@@ -2,7 +2,7 @@
 ---
 [
   {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
-  {% assign date_format = site.date_format | default: "%m/%d/%Y" %}
+  {% assign date_format = site.date_format | default: "%-d %B %Y" %}
   {% for post in posts %}
     {
       "title"    : "{{ post.title | escape }}",
