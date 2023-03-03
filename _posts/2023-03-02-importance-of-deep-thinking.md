@@ -4,8 +4,8 @@ layout: post
 title: "The Importance of Deep Thinking in Software Engineering Teams"
 subtitle: Harness the Power of Async Comms
 description: In the fast-paced world of software engineering, it can be easy to prioritize constant communication and collaboration over deep thinking and uninterrupted knowledge work. However, deep thought is crucial to effective problem-solving and decision-making, particularly in complex software projects. I'll examine why deep thinking is necessary and how it can benefit software engineering teams.
-image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/v1677643358/blog-posts/main/iwc73dbv-ZIdbSA_q2t4xf.jpg
-optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_380/v1677643358/blog-posts/main/iwc73dbv-ZIdbSA_q2t4xf.jpg
+image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/q_70/v1677643358/blog-posts/main/iwc73dbv-ZIdbSA_q2t4xf.jpg
+optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_380/q_70/v1677643358/blog-posts/main/iwc73dbv-ZIdbSA_q2t4xf.jpg
 category: skills-development
 tags:
   - deep thinking
@@ -28,7 +28,7 @@ To avoid shallow thinking and ensure the quality of their work, software enginee
   <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/q_70/v1677646095/blog-posts/_async_comms/_importance_of_deep_thinking/n8aZCv-p1Kjdq-oLyis_rwb3yv.jpg" alt="person building a complex towering glass model of castle, carefully balancing the next piece, looking anxious due to interruptions" class="fullWidth" />
 </p>
 
-### 🧪 Why is Deep Thought Important?
+### 🧪 The Neuroscience of the Disturbed Mind
 
 The neuroscience around depth of thought and interruptions is complex, but can be understood through the concept of cognitive load and attentional control.
 
@@ -38,7 +38,7 @@ Studies using functional magnetic resonance imaging (fMRI) have shown that when 
 
 In addition, interruptions can also disrupt our working memory, which is responsible for holding information temporarily while we use it to complete a task. When we are interrupted, the information in our working memory is displaced, and we have to use mental effort to retrieve it, further increasing our cognitive load and reducing our ability to engage in deep thought.
 
-### 💬 What Is Asynchronous Communication?
+### 💬 Reduce Interruptions with Asynchronous Communication
 
 By providing a structured and organized way for team members to communicate asynchronously, leaders can enable their team members to work more efficiently and productively. Asynchronous communication refers to methods that do not require immediate responses, allowing team members to engage in deep thinking without constant interruptions. This includes channels such as email, project management tools, and collaborative documents.
 
