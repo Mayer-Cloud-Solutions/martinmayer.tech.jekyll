@@ -4,8 +4,8 @@ layout: post
 title: "The Cost of Losing Software Engineers: Why Businesses Should Care and What Can Be Done"
 subtitle: Don't lose engineering talent
 description:
-image: https://res.cloudinary.com/martinmayer-tech/image/upload/v1677460997/blog-posts/main/CQdewvOP3venyr256ynINCW0iwcqX_l6clzr.jpg
-optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_380/v1677460997/blog-posts/main/CQdewvOP3venyr256ynINCW0iwcqX_l6clzr.jpg
+image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/q_70/v1677460997/blog-posts/main/CQdewvOP3venyr256ynINCW0iwcqX_l6clzr.jpg
+optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_380/q_70/v1677460997/blog-posts/main/CQdewvOP3venyr256ynINCW0iwcqX_l6clzr.jpg
 category: skills-development
 tags:
   - progression
@@ -20,7 +20,7 @@ The use of software has become ubiquitous in modern business, and software engin
 You are likely curious about why software engineers are leaving businesses. This article "[More software engineers are going? Here’s Why and How to prevent that from happening to your team](https://inspius.com/insights/software-engineers-quit-how-to-prevent-that/)" references data from **Payscale’s Compensation Best Practices Report,** which surveyed engineers on why they were leaving organisations. The doughnut chart below shows the results of that survey question. The top reasons were **Career Advancement Issues** (31.5%), **Pay and Benefits** (22.4%), and **Lack of Fit** (20.2%).
 
 <p align="center">
-    <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/v1677029072/blog-posts/_progression/_retain_more_engineers/why_do_software_engineers_leave_jbvsnw.png" alt="Donut chart showing the reasons people leave their job - issues with Career Advancement being the highest reason at 31.5%" />
+    <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/v1677029072/blog-posts/_progression/_retain_more_engineers/why_do_software_engineers_leave_jbvsnw.png" alt="Donut chart showing the reasons people leave their job - issues with Career Advancement being the highest reason at 31.5%" />
 </p>
 
 1. **Career Advancement Issues**: This refers to situations where software engineers believe they are not allowed to develop their skills or progress in their careers. This could be due to a lack of clear career development paths or opportunities for growth. Software engineers are typically very motivated to learn and improve their skills continuously. If they feel that they are not being given a chance to do so, they may become frustrated and seek opportunities elsewhere.
