@@ -100,6 +100,10 @@ Moreover, research has shown that multitasking, a common characteristic of shall
 
 Deep thinking is essential for software engineers and engineering leaders looking to solve complex problems, innovate, and create more effective software solutions. With so many distractions from technology and our ways of working, enabling it is more complicated than ever. However, the benefits are enormous, from generating more and better ideas to keeping your employees from the pressure of continually being in quick-thinking mode. Being in a constant mode of quick-thinking without sufficient time for deep thinking can negatively impact mental health, increasing stress levels and the risk of burnout. Balancing quick thinking and deep thinking is essential to maintain productivity and overall well-being. By incorporating deep work strategies into our lives and supporting our teams in doing the same, we can harness the power of deep thinking to drive success, foster a culture of continuous improvement, and ultimately contribute to a happier and more engaged workforce.
 
+<p align="center">
+  <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/q_70/v1679440761/blog-posts/_async_comms/_importance_of_deep_thinking/ueiGd28d2sh82nxmi2_vdorpn.jpg" alt="collection of screens, each displaying deep thinkers in a zen state, connected by futuristic technology" class="fullWidth" />
+</p>
+
 #### 📚 References
 
 [1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4050437/
