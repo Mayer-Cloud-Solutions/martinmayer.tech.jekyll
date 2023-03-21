@@ -20,11 +20,11 @@ In today's fast-paced world of constant connectivity, instant communication, and
 
 ### 🧠 What is Deep Thinking?
 
-Depth of thought is a complex concept, so for this article, I will focus on the two extremes: 'deep thinking' and 'shallow thinking'. There are many levels of cognitive processing between these two extremes, and different types of thinking may be appropriate for different contexts and situations.
+Depth of thought is a complex concept, so for this article, I will focus on the two extremes: 'deep thinking' and 'quick thinking'. There are many levels of cognitive processing between these two extremes, and different types of thinking may be appropriate for different contexts and situations.
 
 Deep thinking involves a prolonged and uninterrupted focus on a problem or task, allowing for exploring multiple perspectives and considering potential solutions. This type of thinking is essential in software engineering, where complex projects require careful planning and consideration. Without deep thought, teams may make decisions based on incomplete information or cannot consider all possible solutions to a problem.
 
-To avoid shallow thinking and ensure the quality of their work, software engineering teams must find ways to balance synchronous communication with deep thought. Shallow thinking can occur when team members are constantly interrupted by meetings, instant messaging, and other synchronous communication channels. On the other hand, shallow thinking occurs when team members need to be more focused on synchronous communication, leading to less thoughtful decision-making and lower-quality work.
+To avoid quick thinking and ensure the quality of their work, software engineering teams must find ways to balance synchronous communication with deep thought. Quick thinking can occur when team members are constantly interrupted by meetings, instant messaging, and other synchronous communication channels. On the other hand, quick thinking occurs when team members need to be more focused on synchronous communication, leading to less thoughtful decision-making and lower-quality work, but much higher bandwidth.
 
 <p align="center">
   <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/q_70/v1677646095/blog-posts/_async_comms/_importance_of_deep_thinking/n8aZCv-p1Kjdq-oLyis_rwb3yv.jpg" alt="person building a complex towering glass model of castle, carefully balancing the next piece, looking anxious due to interruptions" class="fullWidth" />
