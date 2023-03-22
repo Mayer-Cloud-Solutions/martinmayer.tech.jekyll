@@ -6,8 +6,8 @@ description:
 business: cinch
 init_date: September, 2022
 featured: false
-image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_fill,h_400,w_760/v1658971826/2013-08-11_15.23.55_alt_bovawh.jpg
-optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_fill,h_200,w_380/v1658971826/2013-08-11_15.23.55_alt_bovawh.jpg
+image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_fill,h_400,w_760/v1679443256/portfolio/vUc64Dxtz0e579IpqSjgf6_y6uvhw.jpg
+optimized_image: https://res.cloudinary.com/martinmayer-tech/image/upload/c_fill,h_200,w_380/v1679443256/portfolio/vUc64Dxtz0e579IpqSjgf6_y6uvhw.jpg
 ---
 As the Interim Head of Engineering at cinch Technology, I successfully led the engineering function of a tribe with 3 squads, one of which had recently formed, whilst the business found a permanent replacement for the role. 🌟
 
