@@ -78,7 +78,7 @@ Research suggests that being in a constant state of quick-thinking mode, also kn
 
 In his book "Deep Work," Cal Newport discusses how the constant switching between tasks and attention to interruptions can lead to mental fatigue and increased stress levels. This state of continual distraction can prevent us from engaging in deep thinking, which is crucial for professional growth and overall well-being.
 
-Moreover, research has shown that multitasking (or as some dub it "switchtasking" as it's really fast task switching), a common characteristic of shallow work, can increase stress and decrease productivity. A study by the University of California, Irvine, found that people who frequently multitask with electronic media experienced higher levels of stress and anxiety. Similarly, a study published in the American Psychological Association's "Human Factors" journal revealed that multitasking could increase tension and frustration and negatively impact productivity.
+Moreover, research has shown that multitasking (or as some dub it "switchtasking" as it's really fast task switching), a common characteristic of shallow work, can increase stress and decrease productivity. Studies also show that chronic multitaskers struggle to focus to learn new things. The article [The True Cost of Multitasking Isn't Productivity—It's Mental Health](https://zapier.com/blog/multitasking-stress/) explains more.
 
 ### 🏁 Conclusion
 
