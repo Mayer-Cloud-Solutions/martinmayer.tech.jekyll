@@ -17,4 +17,4 @@ As the Interim Head of Engineering at cinch Technology, I successfully led the e
 
 🚀 Together, my team and I achieved notable successes, including reducing support load by decoupling components owned by other squads and developing tooling that could be used by engineers as well as the operational teams to view and edit data for customer orders. Additionally, we developed new processes to support incoming requests from stakeholders working with 3rd party suppliers/partners, enabling better communication in a challenging area of the business. 🙌
 
-👨‍👩‍👧‍👦 Finally, I personally supported a reorganization of Product Engineering and the transition to a new tribe, streamlining processes and aiming to foster a more collaborative environment for my team. 💪
+👨‍👩‍👧‍👦 Finally, I personally supported a reorganization of Product Engineering and the transition to a new tribe, working with leaders across the business, streamlining processes and aiming to foster a more collaborative environment for my team. 💪
