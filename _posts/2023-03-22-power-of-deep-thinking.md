@@ -32,7 +32,7 @@ To avoid quick thinking and ensure the quality of their work, software engineeri
 
 ### 🌟 The Value of Deep Thinking
 
-Deep thinking, also known as critical thinking or reflective thinking, involves engaging in focused, deliberate thought to explore complex ideas, make connections, and draw conclusions. For software engineers and engineering leaders, deep thinking can help:
+Deep thinking, also known as critical thinking or reflective thinking, involves engaging in focused, deliberate thought to explore complex ideas, make connections, and draw conclusions. For software engineers and engineering leaders, deep thinking can help, when paired with the right amount of quick thinking:
 
 1. Develop a better understanding of complex problems: By dedicating time to think deeply about a problem, engineers can uncover hidden connections, identify potential pitfalls, and develop a more comprehensive understanding of the issue at hand.
 2. Innovate and create better solutions: Deep thinking allows engineers and leaders to look beyond the obvious and consider alternative approaches, leading to more innovative and effective solutions.
@@ -40,13 +40,13 @@ Deep thinking, also known as critical thinking or reflective thinking, involves 
 4. Enhance learning and skill development: Engaging in deep thinking promotes self-reflection and evaluation, helping engineers and leaders identify areas for improvement and develop new skills.
 5. Foster a culture of reflection and continuous improvement: Encouraging deep thinking within teams helps create an environment where reflection, learning, and growth are valued and nurtured.
 
-### 🔬 The Science Behind Quick Thinking and Deep Thinking
+### 🔬 The Structures our Brain Uses for Different Types of Thinking
 
-Our brains are wired to handle different types of thinking. Quick thinking, or System 1 thinking, involves making fast, automatic, and intuitive decisions. This thinking is essential for managing everyday tasks and reacting to unexpected situations. In contrast, deep thinking, or System 2 thinking, requires deliberate and focused mental effort to analyse complex problems and develop well-reasoned solutions [1].
+Our brains are wired to handle different types of thinking. Quick thinking, or System 1 thinking, involves making fast, automatic, and intuitive decisions. This thinking is essential for managing everyday tasks and reacting to unexpected situations. In contrast, deep thinking, or System 2 thinking, requires deliberate and focused mental effort to analyse complex problems and develop well-reasoned solutions. Neither System 1 nor System 2 thinking is considered good or bad. They are different and there are trade offs with both. Achieving a balance is ideal to arrive at the best solution.
 
-Research shows that these two types of thinking activate different brain areas. Quick review is associated with activity in the prefrontal cortex and the amygdala, while deep thought involves the hippocampus and the other regions responsible for reasoning and memory [2].
+Interruptions, like notifications or sudden requests, can disrupt our deep thinking process and force us to revert to quick thinking. This switch occurs because our brains are designed to prioritise immediate threats and respond to new information. As a result, we might struggle to focus on complex tasks and miss out on the benefits of deep thinking.
 
-Interruptions, like notifications or sudden requests, can disrupt our deep thinking process and force us to revert to quick thinking. This switch occurs because our brains are designed to prioritise immediate threats and respond to new information [3]. As a result, we might struggle to focus on complex tasks and miss out on the benefits of deep thinking.
+Research shows that these two types of thinking activate different brain areas. However, unlike the left brain / right brain concept that is often wheeled out, they are not two distinct systems of the brain and instead use different parts of the brain to shape behaviour. The two types of thinking are interdependent - indeed there are many types of thinking not just two (as mentioned at the start of this article). I found this useful to understand more about this: [System 1 and System 2 Thinking - Debunking Myths and Re-establishing Truths](https://www.marketingsociety.com/think-piece/system-1-and-system-2-thinking)
 
 <p align="center">
   <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/q_70/v1677647051/blog-posts/_async_comms/_importance_of_deep_thinking/mO-chk3-pWiRg7-ZaN_alnuc6.jpg" alt="busy office environment with many distractions" class="fullWidth" />
@@ -87,7 +87,7 @@ Given the benefits of deep thinking for software engineers and engineering leade
 
 Deep thinking can increase employee happiness. When individuals engage in deep work, they can experience a sense of achievement, mastery, and fulfilment, which can contribute to their overall well-being. For many, it is also a welcome change of pace from tasks requiring quick thinking - introverted team members are especially grateful for this time. Furthermore, by encouraging deep thinking and providing the necessary resources and support, organisations can create a culture of trust, autonomy, and continuous growth, leading to higher job satisfaction and reduced turnover.
 
-A study by McKinsey & Company found that employees who engaged in deep thinking were 3.5 times more likely to be in the top quartile of job satisfaction [4]. Additionally, research from Harvard Business Review shows that incorporating deep work into your daily routine can help prevent burnout and increase overall happiness [5].
+A study by McKinsey & Company found that employees who engaged in deep thinking were 3.5 times more likely to be in the top quartile of job satisfaction. Additionally, research from Harvard Business Review shows that incorporating deep work into your daily routine can help prevent burnout and increase overall happiness.
 
 Research suggests that being in a constant state of quick-thinking mode, also known as "shallow work," can lead to increased stress, burnout, and reduced productivity. Shallow work involves tasks that require little cognitive effort, are quickly interrupted, and do not require deep thinking. Continuously engaging in shallow work can prevent individuals from reaching a state of flow or deep work, essential for solving complex problems and fostering creativity. Deep thinking can also reduce burnout and stress.
 
@@ -105,21 +105,21 @@ Deep thinking is essential for software engineers and engineering leaders lookin
 
 #### 📚 References
 
-[1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4050437/
+[How emotions affect logical reasoning: evidence from experiments with mood-manipulated participants, spider phobics, and people with exam anxiety](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4050437/)
 
-[2] https://www.frontiersin.org/articles/10.3389/fnhum.2012.00292/full
+[Effects of mindful-attention and compassion meditation training on amygdala response to emotional stimuli in an ordinary, non-meditative state](https://www.frontiersin.org/articles/10.3389/fnhum.2012.00292/full)
 
-[3] https://www.psychologytoday.com/us/blog/creativity-without-borders/201405/the-myth-multitasking
+[System 1 and System 2 Thinking - Debunking Myths and Re-establishing Truths](https://www.marketingsociety.com/think-piece/system-1-and-system-2-thinking)
 
-[4] https://www.mckinsey.com/business-functions/organization/our-insights/the-link-between-meaning-and-organizational-health
+[Stop the Meeting Madness](https://hbr.org/2017/07/stop-the-meeting-madness)
 
-[5] https://hbr.org/2016/12/6-ways-to-weave-self-care-into-your-workday
+[The Myth of Multitasking](https://www.psychologytoday.com/us/blog/creativity-without-borders/201405/the-myth-multitasking)
 
-[6] Newport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World. Grand Central Publishing. https://www.goodreads.com/book/show/25744928-deep-work
+[Newport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World. Grand Central Publishing](https://www.goodreads.com/book/show/25744928-deep-work)
 
-[7] Mark, G., Gudith, D., & Klocke, U. (2008). The Cost of Interrupted Work: More Speed and Stress. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 107-110. https://doi.org/10.1145/1357054.1357072
+[Mark, G., Gudith, D., & Klocke, U. (2008). The Cost of Interrupted Work: More Speed and Stress. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 107-110](https://doi.org/10.1145/1357054.1357072)
 
-[8] Grier, R. A., Wickens, C. D., Kaber, D. B., Strayer, D. L., Boehm-Davis, D. A., Trafton, J. G., & St. John, M. (2003). The Red-Line of Workload: Theory, Research, and Design. Human Factors, 45(4), 608-635. https://doi.org/10.1518/hfes.45.4.608.27098
+[Grier, R. A., Wickens, C. D., Kaber, D. B., Strayer, D. L., Boehm-Davis, D. A., Trafton, J. G., & St. John, M. (2003). The Red-Line of Workload: Theory, Research, and Design. Human Factors, 45(4), 608-635](https://doi.org/10.1518/hfes.45.4.608.27098)
 
 ["Remote: Office Not Required"](https://www.goodreads.com/book/show/17316682-remote) by Jason Fried and David Heinemeier Hansson
 
