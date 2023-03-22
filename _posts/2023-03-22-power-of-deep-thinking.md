@@ -24,6 +24,10 @@ Depth of thought is a complex concept, so for this article, I will focus on the 
 
 Deep thinking involves a prolonged and uninterrupted focus on a problem or task, allowing for the exploration of multiple perspectives and considering potential solutions. This type of thinking is essential in software engineering, where complex projects require careful planning and consideration. Without deep thought, teams may make decisions based on incomplete information or cannot consider all possible solutions to a problem.
 
+<p align="center">
+  <img src="https://res.cloudinary.com/martinmayer-tech/image/upload/c_scale,w_760/q_70/v1679512582/blog-posts/_async_comms/_importance_of_deep_thinking/fh45ieb38e_tbjmac.jpg" alt="Doctor Strange deep in thought examining the many possible futures in Avengers: Infinity War" class="fullWidth" />
+</p>
+
 To avoid quick thinking and ensure the quality of their work, software engineering teams must find ways to balance synchronous communication with deep thought. Quick thinking can occur when team members are constantly interrupted by meetings, instant messaging, and other synchronous communication channels. On the other hand, quick thinking occurs when team members need to be more focused on synchronous communication, leading to less thoughtful decision-making and the potential for lower-quality work, but much higher bandwidth for quick tasks.
 
 <p align="center">
