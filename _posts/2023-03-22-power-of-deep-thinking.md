@@ -100,6 +100,8 @@ Deep thinking is essential for software engineers and engineering leaders lookin
 
 [Stop the Meeting Madness](https://hbr.org/2017/07/stop-the-meeting-madness)
 
+[The True Cost of Multitasking Isn't Productivity—It's Mental Health](https://zapier.com/blog/multitasking-stress/)
+
 [The Myth of Multitasking](https://www.psychologytoday.com/us/blog/creativity-without-borders/201405/the-myth-multitasking)
 
 [The Myths of Multitasking (and why Switch-tasking, or task-switching, is really what you're doing)](https://www.linkedin.com/pulse/myths-multitasking-why-switch-tasking-task-switching-really-saleh/)
