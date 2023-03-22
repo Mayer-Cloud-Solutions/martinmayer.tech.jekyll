@@ -87,13 +87,11 @@ Given the benefits of deep thinking for software engineers and engineering leade
 
 Deep thinking can increase employee happiness. When individuals engage in deep work, they can experience a sense of achievement, mastery, and fulfilment, which can contribute to their overall well-being. For many, it is also a welcome change of pace from tasks requiring quick thinking - introverted team members are especially grateful for this time. Furthermore, by encouraging deep thinking and providing the necessary resources and support, organisations can create a culture of trust, autonomy, and continuous growth, leading to higher job satisfaction and reduced turnover.
 
-A study by McKinsey & Company found that employees who engaged in deep thinking were 3.5 times more likely to be in the top quartile of job satisfaction. Additionally, research from Harvard Business Review shows that incorporating deep work into your daily routine can help prevent burnout and increase overall happiness.
+Research suggests that being in a constant state of quick-thinking mode, also known as "shallow work," can lead to increased stress, burnout, and reduced productivity. Shallow work involves tasks that require little cognitive effort, are quickly interrupted, and do not require deep thinking. Continuously engaging in shallow work can prevent individuals from reaching a state of flow or deep work, essential for solving complex problems and fostering creativity. Having a balance of Quick Thinking and Deep thinking within a reasonable routine can also reduce burnout and stress.
 
-Research suggests that being in a constant state of quick-thinking mode, also known as "shallow work," can lead to increased stress, burnout, and reduced productivity. Shallow work involves tasks that require little cognitive effort, are quickly interrupted, and do not require deep thinking. Continuously engaging in shallow work can prevent individuals from reaching a state of flow or deep work, essential for solving complex problems and fostering creativity. Deep thinking can also reduce burnout and stress.
+In his book "Deep Work," Cal Newport discusses how the constant switching between tasks and attention to interruptions can lead to mental fatigue and increased stress levels. This state of continual distraction can prevent us from engaging in deep thinking, which is crucial for professional growth and overall well-being.
 
-In his book "Deep Work," Cal Newport discusses how the constant switching between tasks and attention to interruptions can lead to mental fatigue and increased stress levels [6]. This state of continual distraction can prevent us from engaging in deep thinking, which is crucial for professional growth and overall well-being.
-
-Moreover, research has shown that multitasking, a common characteristic of shallow work, can increase stress and decrease productivity. A study by the University of California, Irvine, found that people who frequently multitask with electronic media experienced higher levels of stress and anxiety [7]. Similarly, a study published in the American Psychological Association's "Human Factors" journal revealed that multitasking could increase tension and frustration and negatively impact productivity [8].
+Moreover, research has shown that multitasking (or as some dub it "switchtasking" as in fast task switching), a common characteristic of shallow work, can increase stress and decrease productivity. A study by the University of California, Irvine, found that people who frequently multitask with electronic media experienced higher levels of stress and anxiety [7]. Similarly, a study published in the American Psychological Association's "Human Factors" journal revealed that multitasking could increase tension and frustration and negatively impact productivity [8].
 
 ### 🏁 Conclusion
 
@@ -111,9 +109,13 @@ Deep thinking is essential for software engineers and engineering leaders lookin
 
 [System 1 and System 2 Thinking - Debunking Myths and Re-establishing Truths](https://www.marketingsociety.com/think-piece/system-1-and-system-2-thinking)
 
+[Why Don't Managers Think Deeply?](https://hbswk.hbs.edu/item/why-dont-managers-think-deeply)
+
 [Stop the Meeting Madness](https://hbr.org/2017/07/stop-the-meeting-madness)
 
 [The Myth of Multitasking](https://www.psychologytoday.com/us/blog/creativity-without-borders/201405/the-myth-multitasking)
+
+[The Myths of Multitasking (and why Switch-tasking, or task-switching, is really what you're doing)](https://www.linkedin.com/pulse/myths-multitasking-why-switch-tasking-task-switching-really-saleh/)
 
 [Newport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World. Grand Central Publishing](https://www.goodreads.com/book/show/25744928-deep-work)
 
