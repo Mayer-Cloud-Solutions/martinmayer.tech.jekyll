@@ -1,5 +1,5 @@
 ---
-date: 2022-03-22 11:00:00
+date: 2022-03-23 17:00:00
 layout: post
 title: "The Power of Deep Thinking for Software Engineers and Engineering Leaders"
 subtitle: 
@@ -16,7 +16,7 @@ paginate: true
 ---
 ### 🎉 Introduction
 
-In today's fast-paced world of constant connectivity, instant communication, and never-ending notifications, finding the time and mental space for deep thinking can be challenging. However, deep thought is invaluable for software engineers and engineering leaders looking to solve complex problems, innovate, and create more efficient, robust, and user-friendly software solutions. Indeed, all knowledge workers can benefit from the time away from distractions to think about the more complex problems they are tasked with solving and this can be challenging depending on your work environment. In this article, we'll explore the power of deep thinking for modern software engineers and engineering leaders and discuss ways to enable deep work in our lives and teams. We'll also touch on the potential benefits of deep thinking for employee happiness and reducing burnout and stress.
+In today's fast-paced world of constant connectivity, instant communication, and never-ending notifications, finding the time and mental space for deep thinking can be challenging. However, deep thought is invaluable for software engineers and engineering leaders looking to solve complex problems, innovate, and create more efficient, robust, and user-friendly software solutions. Indeed, all knowledge workers can benefit from the time away from distractions to think about the more complex problems they are tasked with solving and this can be challenging depending on your work environment. In this article, I'll explore the power of deep thinking for modern software engineers and engineering leaders and discuss ways to enable deep work in our lives and teams. I'll also touch on the potential benefits of deep thinking for employee happiness and reducing burnout and stress.
 
 ### 🧠 What is Deep Thinking?
 
@@ -44,7 +44,7 @@ Deep thinking, also known as critical thinking or reflective thinking, involves 
 4. Enhance learning and skill development: Engaging in deep thinking promotes self-reflection and evaluation, helping engineers and leaders identify areas for improvement and develop new skills.
 5. Foster a culture of reflection and continuous improvement: Encouraging deep thinking within teams helps create an environment where reflection, learning, and growth are valued and nurtured.
 
-### 🔬 The Structures our Brain Uses for Different Types of Thinking
+### 🔬 The Human Brain and Different Types of Thinking
 
 Our brains are wired to handle different types of thinking. Quick thinking, or System 1 thinking, involves making fast, automatic, and intuitive decisions. This thinking is essential for managing everyday tasks and reacting to unexpected situations. In contrast, deep thinking, or System 2 thinking, requires deliberate and focused mental effort to analyse complex problems and develop well-reasoned solutions. Neither System 1 nor System 2 thinking is considered good or bad. They are different and there are trade offs with both. Achieving a balance is ideal to arrive at the best solution and many problems aren't complex enough to require System 2 thinking anyway.
 
